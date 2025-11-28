@@ -1,0 +1,79 @@
+{
+  "document_info": {
+    "title": "2021년5월전력수요예측전망",
+    "date": "2021. 4.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "subsections": [
+        {
+          "subtitle": " 5월 기온 전망",
+          "content": "평년*(17.0~17.4℃) 보다 높을 확률이 70%이며, 따뜻한 공기의 영향을 주로\n받아 평년보다 높은 기온 경향을 보이겠으나, 초반에는 일시적인 상층 찬\n공기의 영향으로 기온 변동폭이 크겠음"
+        },
+        {
+          "subtitle": " 5월 강수량 전망",
+          "content": "강수량은 평년(79.3 ~ 125.5㎜)과 비슷할 확률이 50%이며, 전반적으로 건조\n한 경향을 보이겠으나, 남서쪽에서 다가오는 저기압의 영향으로 다소 많은\n비가 내릴 때가 있겠음."
+        },
+        {
+          "subtitle": "※ 상세 기온 및 강수량 전망내용은 붙임 참조"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "chart": {
+            "image_path": "/home/user/langchain-study/2021_visuals_output/2021년5월전력수요예측전망/page2_id37_chart.png"
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망"
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "70,200㎿"
+        },
+        {
+          "subtitle": "2020년 5월 주별 최대전력"
+        },
+        {
+          "subtitle": "2020년 6월 주별 최대전력"
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "57,000㎿ (100㎿ 단위로 반올림하여 작성하였음)",
+          "methodology": "○ 아래 5개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 예측 : 58,900㎿\n- ARIMA이용(Census X-13) 예측 : 55,600㎿\n- Holt-Winters 지수평활 예측 : 56,500㎿\n- ETS 지수평활 예측 : 56,400㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 57,400㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세"
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_pages": 6,
+    "processing_date": "2025-11-06 01:27:05"
+  }
+}

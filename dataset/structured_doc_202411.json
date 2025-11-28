@@ -1,0 +1,119 @@
+{
+  "document_info": {
+    "title": "2024년11월전력수요예측전망",
+    "date": "2024. 10.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구(☏8802)\n대리 송민호(☏8803)\n대리 최요환(☏8809)",
+    "filepath": "/home/user/langchain-study/2024_수요보고서/2024년11월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "기상전망 요약",
+          "content": "’24.11~’24.12월 기상전망\n11월 기온은 평년보다 대체로 높겠고, 강수량은 평년보다 대체로 적겠음\n- 기 온 : 평년(7.0~8.2℃) 보다 낮음 20%, 비슷 40%, 높음 40%\n- 강수량 : 평년(30.7~55.1㎜) 보다 적음 40%, 비슷 40%, 많음 20%\n12월 기온은 평년보다 대체로 낮겠고, 강수량은 평년보다 대체로 적겠음\n- 기 온 : 평년(0.5~1.7℃) 보다 낮음 40%, 비슷 40%, 높음 20%\n- 강수량 : 평년(19.8~28.6㎜) 보다 적음 40%, 비슷 40%, 많음 20%",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2020 to 2024, with the y-axis representing demand in megawatts (MW) ranging from 65,000 to 95,000 MW, and the x-axis representing months from January (1) to December (12).\n\n### Key Observations:\n\n- **2024 Forecast (Red Line):**\n  - Peaks at 97,115 MW in August.\n  - Lowest demand is 69,899 MW in May.\n  - Notable increase from May to August.\n\n- **2023 Data (Pink Line):**\n  - Peaks at 94,509 MW in August.\n  - Lowest demand is 71,199 MW in May.\n  - Shows a similar trend to 2024 but with slightly lower values.\n\n- **2022 Data (Blue Line):**\n  - Peaks at 93,615 MW in August.\n  - Lowest demand is 72,292 MW in May.\n  - Follows a similar pattern to 2023 and 2024.\n\n- **2021 Data (Black Line):**\n  - Peaks at 89,091 MW in August.\n  - Lowest demand is 68,966 MW in May.\n  - Shows a more moderate increase compared to later years.\n\n- **2020 Data (Green Line):**\n  - Peaks at 86,255 MW in August.\n  - Lowest demand is 66,639 MW in May.\n  - Displays the lowest demand values among the years shown.\n\n### Trends:\n\n- There is a consistent pattern of lower demand in the spring (April-May) and higher demand in the summer (July-August) across all years.\n- The forecast for 2024 shows a significant increase in peak demand compared to previous years, indicating a trend of rising electricity demand over time.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년11월전력수요예측전망/page2_id9_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides data on electricity demand forecasts for November from 2020 to 2024, focusing on maximum and average demand in megawatts (MW), along with year-over-year growth rates.\n\n### Maximum Demand (MW)\n- **2020.11**: 77,096 MW with a growth rate of 3.6%\n- **2021.11**: 80,362 MW with a growth rate of 4.2%\n- **2022.11**: 82,117 MW with a growth rate of 2.2%\n- **2023.11**: 82,716 MW with a growth rate of 0.7%\n- **2024.11**: 85,400 MW with a growth rate of 3.2%\n\n### Average Demand (MW)\n- **2020.11**: 60,974 MW with a growth rate of -0.7%\n- **2021.11**: 63,286 MW with a growth rate of 3.8%\n- **2022.11**: 62,293 MW with a growth rate of -1.6%\n- **2023.11**: 63,923 MW with a growth rate of 2.6%\n- **2024.11**: 64,200 MW with a growth rate of 0.4%\n\n### Trends\n- **Maximum Demand**: There is a general upward trend in maximum demand from 2020 to 2024, with a slight dip in growth rate in 2023, followed by a recovery in 2024.\n- **Average Demand**: The average demand shows fluctuations, with a decrease in 2022, followed by increases in 2023 and 2024, though the growth rate slows in 2024.\n\nOverall, both maximum and average demands are expected to increase in 2024, with maximum demand showing a more significant rise compared to average demand.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년11월전력수요예측전망/page2_id12_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2024년 11월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand in megawatts (MW) for November 2024, broken down by week. Here's a detailed summary:\n\n- **1st Week (11/4 - 11/10):** The maximum demand is projected to be 76,600 MW.\n- **2nd Week (11/11 - 11/17):** The demand increases to 80,000 MW.\n- **3rd Week (11/18 - 11/24):** The demand further rises to 82,800 MW.\n- **4th Week (11/25 - 12/1):** The highest demand for the month is expected, reaching 85,400 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand throughout November 2024.\n- The demand increases by 3,400 MW from the 1st to the 2nd week, 2,800 MW from the 2nd to the 3rd week, and 2,600 MW from the 3rd to the 4th week.\n- Overall, the demand grows by 8,800 MW from the beginning to the end of the month.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년11월전력수요예측전망/page3_id18_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2024년 12월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the projected maximum electricity demand in megawatts (MW) for each week of December 2024. Here's a detailed summary:\n\n- **1st Week (12/2 - 12/8):** The maximum demand is projected to be 88,500 MW.\n- **2nd Week (12/9 - 12/15):** The demand increases to 92,800 MW.\n- **3rd Week (12/16 - 12/22):** The demand further rises to 93,800 MW.\n- **4th Week (12/23 - 12/29):** The highest demand is expected, reaching 94,000 MW.\n\n**Trend Analysis:**\n- There is a consistent increase in electricity demand each week.\n- From the 1st to the 4th week, the demand increases by 5,500 MW, indicating a steady rise in electricity needs as the month progresses.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년11월전력수요예측전망/page3_id22_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "- 기온 고려 Reg-ARIMA 모형 : 70,800㎿\n- 체감온도 고려 Reg-ARIMA 모형 : 70,700㎿\n- 인공신경망(NN+AR) 모형 : 72,900㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 72,600㎿\n- 거래소 SELF 예측모형 : 70,800㎿"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 8,
+    "charts_count": 9,
+    "tables_count": 3,
+    "processing_date": "2025-11-06 03:33:16"
+  }
+}

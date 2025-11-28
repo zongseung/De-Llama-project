@@ -1,0 +1,174 @@
+{
+  "document_info": {
+    "title": "2023년2월전력수요예측전망",
+    "date": "2023. 1.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구(☏8802)\n주임 문정민(☏8804)",
+    "filepath": "/home/user/langchain-study/2023_수요보고서/2023년2월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": " 2월 기온 전망",
+          "content": "평년*(0.6~1.8℃)과 비슷할 확률이 50%이며, 대륙고기압과 이동성 고기압의\n영향을 주기적으로 받겠으며, 일시적으로 기온이 큰 폭으로 떨어지는 날이\n있겠음\n* 평년범위는 과거 30년(`91-`20년)간 연도별 30개의 평균값 중 대략적으로 33.33%~66.67%에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": " 2월 강수량 전망",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "○ 평년(27.5~44.9㎜)과 비슷하거나 적을 확률이 각각 40%임\n※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2019 to 2023, measured in megawatts (MW). The y-axis represents the demand in MW, ranging from 65,000 to 100,000 MW. The x-axis represents the months of the year.\n\n### Key Observations:\n\n- **2023 Forecast (Red Line):**\n  - Peaks at 92,613 MW in January.\n  - Lowest point is 90,700 MW in December.\n\n- **2022 Data (Blue Line):**\n  - Peaks at 94,509 MW in December.\n  - Lowest point is 80,352 MW in October.\n\n- **2021 Data (Pink Line):**\n  - Peaks at 91,141 MW in August.\n  - Lowest point is 75,206 MW in May.\n\n- **2020 Data (Green Line):**\n  - Peaks at 89,791 MW in August.\n  - Lowest point is 66,699 MW in May.\n\n- **2019 Data (Black Line):**\n  - Peaks at 89,263 MW in August.\n  - Lowest point is 68,454 MW in May.\n\n### Trends:\n\n- **Seasonal Variation:**\n  - All years show a similar pattern with higher demand in winter and summer months, and lower demand in spring and fall.\n  \n- **Increasing Demand:**\n  - There is a general upward trend in peak demand from 2019 to 2023, indicating increasing electricity needs over the years.\n\nThis chart provides a clear visualization of the seasonal and annual trends in electricity demand, highlighting the increasing demand over the years.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년2월전력수요예측전망/page2_id37_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents electricity demand forecasts for February from 2019 to 2023, focusing on two metrics: maximum demand (최대부하) and average demand (평균부하), both measured in megawatts (MW). It also includes the year-on-year growth rates in percentages.\n\n### Maximum Demand (MW)\n- **2019.2월**: 82,869 MW, with a decrease of 6.1% from the previous year.\n- **2020.2월**: 81,493 MW, a further decrease of 1.7%.\n- **2021.2월**: 84,749 MW, an increase of 4.0%.\n- **2022.2월**: 87,351 MW, an increase of 3.1%.\n- **2023.2월**: 90,700 MW, an increase of 3.8%.\n\n### Average Demand (MW)\n- **2019.2월**: 65,402 MW, with a decrease of 4.8% from the previous year.\n- **2020.2월**: 65,053 MW, a slight decrease of 0.5%.\n- **2021.2월**: 64,837 MW, a decrease of 0.3%.\n- **2022.2월**: 69,609 MW, an increase of 7.4%.\n- **2023.2월**: 70,900 MW, an increase of 1.9%.\n\n### Trends\n- **Maximum Demand**: After a decline in 2019 and 2020, there is a consistent increase from 2021 to 2023, with the highest demand in 2023 at 90,700 MW.\n- **Average Demand**: There is a similar pattern, with decreases until 2021, followed by increases in 2022 and 2023, reaching 70,900 MW in 2023.\n\nOverall, both maximum and average electricity demands show a recovery and growth trend from 2021 onwards.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년2월전력수요예측전망/page2_id40_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2023년 2월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast in megawatts (MW) for February 2023, broken down by week. Here's a detailed summary:\n\n- **1st Week (1/30~2/5):** The maximum demand is forecasted to be 90,700 MW.\n- **2nd Week (2/6~2/12):** The demand decreases to 88,300 MW.\n- **3rd Week (2/13~2/19):** The demand further decreases to 87,500 MW.\n- **4th Week (2/20~2/26):** The demand continues to decrease, reaching 86,700 MW.\n\n**Trend Analysis:**\n- There is a consistent downward trend in the maximum electricity demand over the four weeks of February 2023.\n- The demand decreases by 2,400 MW from the 1st to the 2nd week, 800 MW from the 2nd to the 3rd week, and 800 MW from the 3rd to the 4th week.\n\nThis trend suggests a gradual reduction in electricity demand throughout the month.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년2월전력수요예측전망/page3_id46_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2023년 3월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast in megawatts (MW) for five weeks, starting from February 27 to April 2, 2023. Here's a detailed summary:\n\n- **1st Week (2/27 - 3/5):** The maximum demand is forecasted at 83,400 MW.\n- **2nd Week (3/6 - 3/12):** The demand decreases to 81,700 MW.\n- **3rd Week (3/13 - 3/19):** A further decrease is observed, with demand at 81,100 MW.\n- **4th Week (3/20 - 3/26):** The demand continues to decline to 77,600 MW.\n- **5th Week (3/27 - 4/2):** The lowest demand in this period is forecasted at 77,300 MW.\n\n**Trend Analysis:**\n- There is a clear downward trend in electricity demand over the five-week period.\n- The demand decreases steadily from 83,400 MW in the first week to 77,300 MW in the fifth week, indicating a reduction of 6,100 MW over the period.\n\nThis trend might reflect seasonal changes, efficiency improvements, or other factors affecting electricity consumption.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년2월전력수요예측전망/page3_id49_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "- SELF(Short-term Electricity Load Forecasting) 모형 : 73,200㎿\n- ARIMA 모형(Census X-13) : 69,700㎿\n- Holt-Winters 지수평활 모형 : 69,700㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for February 2023, focusing on temperature and precipitation trends influenced by atmospheric pressure systems.\n\n### Week 1 (1/30–2/5)\n- **Temperature**: Expected to be lower than average, ranging from -1.7°C to -0.3°C, with a 50% probability.\n- **Precipitation**: Likely to be below average, with a range of 0.7 to 2.6 mm, also with a 50% probability.\n\n### Week 2 (2/6–2/12)\n- **Temperature**: Expected to be similar to the average, ranging from -0.6°C to -1.2°C, with a 50% probability.\n- **Precipitation**: Likely to be similar or below average, ranging from 1.2 to 8.2 mm, with a 40% probability for each scenario.\n\n### Week 3 (2/13–2/19)\n- **Temperature**: Expected to be similar to the average, ranging from 0.8°C to 2.2°C, with a 50% probability.\n- **Precipitation**: Likely to be similar to the average, ranging from 1.6 to 10.3 mm, with a 50% probability.\n\n### Week 4 (2/20–2/26)\n- **Temperature**: Expected to be similar or higher than average, ranging from 1.4°C to 3.8°C, with a 40% probability for each scenario.\n- **Precipitation**: Likely to be similar to the average, ranging from 2.1 to 13.7 mm, with a 50% probability.\n\n### Trends\n- The first two weeks are influenced by cold high-pressure systems, leading to lower temperatures.\n- The latter two weeks are influenced by mobile high-pressure systems, resulting in temperatures closer to or above average.\n- Precipitation is generally expected to be similar to or below average throughout the month.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년2월전력수요예측전망/page4_id57_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks, with probabilities for different ranges.\n\n### Temperature Forecast:\n- **1st Week:**\n  - Average Range: -1.7°C to 0.3°C\n  - Probability: Low 50%, Normal 40%, High 10%\n  \n- **2nd Week:**\n  - Average Range: -0.6°C to 1.2°C\n  - Probability: Low 30%, Normal 50%, High 20%\n  \n- **3rd Week:**\n  - Average Range: 0.8°C to 2.2°C\n  - Probability: Low 10%, Normal 50%, High 40%\n  \n- **4th Week:**\n  - Average Range: 1.4°C to 3.8°C\n  - Probability: Low 20%, Normal 40%, High 40%\n\n### Precipitation Forecast:\n- **1st Week:**\n  - Average Range: 0.7mm to 2.6mm\n  - Probability: Low 50%, Normal 40%, High 10%\n  \n- **2nd Week:**\n  - Average Range: 1.2mm to 8.2mm\n  - Probability: Low 40%, Normal 40%, High 20%\n  \n- **3rd Week:**\n  - Average Range: 1.6mm to 10.3mm\n  - Probability: Low 30%, Normal 50%, High 20%\n  \n- **4th Week:**\n  - Average Range: 2.1mm to 13.7mm\n  - Probability: Low 30%, Normal 50%, High 20%\n\n### Trends:\n- **Temperature:** There is a gradual increase in the average temperature range from the 1st to the 4th week. The probability of higher temperatures increases over the weeks.\n- **Precipitation:** The average precipitation range also increases over the weeks, with a consistent probability of normal precipitation being the highest in the 3rd and 4th weeks.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년2월전력수요예측전망/page4_id60_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 6,
+    "charts_count": 4,
+    "tables_count": 5,
+    "processing_date": "2025-11-17 21:32:56"
+  }
+}

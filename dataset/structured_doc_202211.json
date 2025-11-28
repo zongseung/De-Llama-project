@@ -1,0 +1,188 @@
+{
+  "document_info": {
+    "title": "2022년11월전력수요예측전망",
+    "date": "2022. 10.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 박희준(☏8801)\n수요예측팀 대리 손흥구(☏8806)",
+    "filepath": "/home/user/langchain-study/2022_수요보고서/2022년11월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": " `22.11월 기온 전망",
+          "content": "평년*(7.0~8.2℃)보다 비슷하거나 낮을 확률이 40%이며, 찬 대륙고기압과\n이동성 고기압의 영향을 주기적으로 받겠으며, 춥고 건조한 날이 많겠음\n* 평년범위는 과거 30년(`91-`20년)간 연도별 30개의 평균값 중 대략적으로 33.33%~66.67%에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": " `22.11월 강수량 전망",
+          "content": "평년(30.7~55.1㎜)보다 적을 확률이 50%임",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts for various years, with the y-axis representing demand in megawatts (MW) ranging from 60,000 to 95,000 MW, and the x-axis representing months from 1 to 12.\n\n### Key Observations:\n\n- **2022 Forecast (Red Line):**\n  - Starts at 89,397 MW in January.\n  - Peaks at 92,990 MW in August.\n  - Lowest demand is 71,879 MW in May.\n  - Ends at 82,600 MW in December.\n\n- **2021 Data (Blue Line):**\n  - Begins at 90,564 MW in January.\n  - Peaks at 91,141 MW in August.\n  - Lowest demand is 73,504 MW in May.\n  - Ends at 86,083 MW in December.\n\n- **2018 to 2020 Trends:**\n  - 2018 shows a peak of 91,548 MW in August.\n  - 2019 and 2020 have similar patterns with peaks around 84,164 MW and 90,311 MW respectively in August.\n  - Both years show lower demand in the middle months, with 2019 reaching a low of 66,699 MW in May.\n\n### General Trends:\n\n- Demand generally peaks in the summer months (July-August) across all years.\n- The lowest demand is typically observed in the spring months (April-May).\n- The 2022 forecast shows a higher peak compared to previous years, indicating an expected increase in demand.\n\nThis analysis provides a comprehensive view of electricity demand trends and forecasts, highlighting seasonal variations and year-on-year changes.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년11월전력수요예측전망/page2_id36_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents electricity demand forecasts for November from 2018 to 2022, focusing on two metrics: maximum load (최대부하) and average load (평균부하), both measured in megawatts (MW). It also includes the year-on-year growth rates in percentages.\n\n### Maximum Load (최대부하)\n- **2018.11**: 75,914 MW, with a decrease of 2.2% from the previous year.\n- **2019.11**: 74,393 MW, a further decrease of 2.0%.\n- **2020.11**: 77,074 MW, an increase of 3.6%.\n- **2021.11**: 80,362 MW, an increase of 4.3%.\n- **2022.11**: 82,600 MW, an increase of 2.8%.\n\n### Average Load (평균부하)\n- **2018.11**: 63,085 MW, a decrease of 0.7%.\n- **2019.11**: 61,420 MW, a decrease of 2.6%.\n- **2020.11**: 60,974 MW, a decrease of 0.7%.\n- **2021.11**: 63,286 MW, an increase of 3.8%.\n- **2022.11**: 65,400 MW, an increase of 3.3%.\n\n### Trends\n- **Maximum Load**: After a decline in 2018 and 2019, there was a consistent increase from 2020 to 2022, with the highest growth rate in 2021.\n- **Average Load**: Similar to the maximum load, the average load decreased until 2020, followed by increases in 2021 and 2022, with the highest growth rate in 2021.\n\nOverall, both maximum and average loads show a recovery and growth trend from 2020 onwards.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년11월전력수요예측전망/page2_id39_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2022년 11월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand (in megawatts, MW) for November 2022, broken down by week. Here's a detailed summary:\n\n- **1st Week (10/31 - 11/6):** The maximum demand is projected to be 72,800 MW.\n- **2nd Week (11/7 - 11/13):** The demand increases to 75,300 MW.\n- **3rd Week (11/14 - 11/20):** The demand further rises to 77,300 MW.\n- **4th Week (11/21 - 11/27):** The highest demand is expected, reaching 82,600 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand throughout November.\n- The demand increases by 2,500 MW from the 1st to the 2nd week, by 2,000 MW from the 2nd to the 3rd week, and by 5,300 MW from the 3rd to the 4th week.\n- The most significant increase occurs between the 3rd and 4th weeks.\n\nThis trend suggests a growing need for electricity as the month progresses, possibly due to seasonal changes or increased industrial activity.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년11월전력수요예측전망/page3_id45_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2022년 12월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand (in megawatts, MW) for five consecutive weeks, starting from November 28, 2022, to January 1, 2023. Here's a detailed summary:\n\n- **1st Week (11/28 - 12/4):** The maximum demand is projected to be 85,400 MW.\n- **2nd Week (12/5 - 12/11):** The demand increases to 88,100 MW.\n- **3rd Week (12/12 - 12/18):** The demand further rises to 90,800 MW.\n- **4th Week (12/19 - 12/25):** The demand remains steady at 90,800 MW.\n- **5th Week (12/26 - 1/1):** The demand peaks at 91,200 MW.\n\n**Trend Analysis:**\n- There is a consistent increase in demand from the 1st to the 3rd week.\n- The demand stabilizes in the 3rd and 4th weeks.\n- A slight increase is observed in the 5th week, reaching the highest demand of the period.\n\nThis trend indicates a gradual rise in electricity demand as the weeks progress, with a notable peak during the last week of the year.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년11월전력수요예측전망/page3_id48_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "- SELF(Short-term Electricity Load Forecasting) 모형 : 66,400㎿\n- ARIMA 모형(Census X-13) : 65,100㎿\n- Holt-Winters 지수평활 모형 : 65,700㎿\n- ETS 지수평활 예측 : 65,400㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 63,000㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "기상 패턴 전망",
+          "content": "○ 11월은 찬 대륙고기압과 이동성 고기압의 영향을 주기적으로 받겠으며,\n춥고 건조한 날이 많겠음\n- 기 온 : 평년(7.0~8.2℃) 보다 낮음 40%, 비슷 40%, 높음 20%\n- 강수량 : 평년(30.7~55.1㎜) 보다 적음 50%, 비슷 30%, 많음 20%",
+          "page": 4,
+          "related_data": null
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for November 2022, focusing on temperature and precipitation trends influenced by atmospheric pressure systems.\n\n### Week 1 (10/31 - 11/6)\n- **Influence**: Mainly affected by a mobile high-pressure system.\n- **Temperature**: Likely to be similar to the average of 9.4°C to 11.2°C with a 50% probability.\n- **Precipitation**: Expected to be less than the average of 2.9mm to 11.8mm with a 50% probability.\n\n### Week 2 (11/7 - 11/13)\n- **Influence**: Affected by a mobile high-pressure system, with occasional cold air influence.\n- **Temperature**: Likely to be similar to the average of 8.8°C to 10.4°C with a 50% probability.\n- **Precipitation**: Expected to be similar to the average of 5.5mm to 14.3mm with a 50% probability.\n\n### Week 3 (11/14 - 11/20)\n- **Influence**: Cold continental high-pressure system, leading to cold days.\n- **Temperature**: Likely to be similar or lower than the average of 5.7°C to 7.9°C with a 40% probability each.\n- **Precipitation**: Expected to be similar or less than the average of 3.1mm to 9.7mm with a 40% probability each.\n\n### Week 4 (11/21 - 11/27)\n- **Influence**: Affected by a mobile high-pressure system, with occasional cold continental high-pressure influence.\n- **Temperature**: Likely to be similar or lower than the average of 4.7°C to 6.1°C with a 40% probability each.\n- **Precipitation**: Expected to be less than the average of 3.2mm to 8.0mm with a 50% probability.\n\nOverall, the forecast suggests a mix of typical and slightly colder conditions with varying precipitation levels throughout November.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년11월전력수요예측전망/page4_id57_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks in November 2022. Here's a detailed summary:\n\n### Temperature (평균기온)\n- **1st Week (1주):** \n  - Average Range: 9.4°C to 11.2°C\n  - Probability: Low 30%, Normal 50%, High 20%\n\n- **2nd Week (2주):** \n  - Average Range: 8.8°C to 10.4°C\n  - Probability: Low 30%, Normal 50%, High 20%\n\n- **3rd Week (3주):** \n  - Average Range: 5.7°C to 7.9°C\n  - Probability: Low 40%, Normal 40%, High 20%\n\n- **4th Week (4주):** \n  - Average Range: 4.7°C to 6.1°C\n  - Probability: Low 40%, Normal 40%, High 20%\n\n### Precipitation (강수량)\n- **1st Week (1주):** \n  - Average Range: 2.9mm to 11.8mm\n  - Probability: Low 50%, Normal 30%, High 20%\n\n- **2nd Week (2주):** \n  - Average Range: 5.5mm to 14.3mm\n  - Probability: Low 30%, Normal 50%, High 20%\n\n- **3rd Week (3주):** \n  - Average Range: 3.1mm to 9.7mm\n  - Probability: Low 40%, Normal 40%, High 20%\n\n- **4th Week (4주):** \n  - Average Range: 3.2mm to 8.0mm\n  - Probability: Low 50%, Normal 30%, High 20%\n\n### Trends\n- **Temperature:** The average temperature decreases steadily from the 1st to the 4th week.\n- **Precipitation:** The average precipitation range is highest in the 2nd week. The probability of low precipitation is highest in the 1st and 4th weeks.\n\nThis forecast suggests a cooling trend throughout November with varying precipitation levels, peaking in the second week.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년11월전력수요예측전망/page4_id60_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기온범위(°C)",
+                  "강수량(mm)"
+                ],
+                "rows": [],
+                "data_type": "weather",
+                "fields": [
+                  "week",
+                  "temp_range",
+                  "precip_range"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 6,
+    "charts_count": 4,
+    "tables_count": 5,
+    "processing_date": "2025-11-18 00:59:07"
+  }
+}

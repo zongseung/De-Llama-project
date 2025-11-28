@@ -1,0 +1,121 @@
+{
+  "document_info": {
+    "title": "2024년12월전력수요예측전망",
+    "date": "2024. 11.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구(☏8802)\n대리 송민호(☏8803)\n대리 최요환(☏8809)",
+    "filepath": "/home/user/langchain-study/2024_수요보고서/2024년12월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "기상전망 요약",
+          "content": "’24.12~’25.1월 기상전망\n12월 기온은 평년과 비슷하겠고, 강수량은 평년보다 대체로 적겠음\n- 기 온 : 평년(0.5~1.7℃) 보다 낮음 30%, 비슷 50%, 높음 20%\n- 강수량 : 평년(19.8~28.6㎜) 보다 적음 40%, 비슷 40%, 많음 20%\n1월 기온은 평년과 비슷하겠고, 강수량은 평년보다 대체로 적겠음\n- 기 온 : 평년(-1.5~-0.3℃) 보다 낮음 20%, 비슷 50%, 높음 30%\n- 강수량 : 평년(17.4~26.8㎜) 보다 적음 40%, 비슷 40%, 많음 20%",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2020 to 2025, with each year represented by a different colored line. The x-axis represents the months from January (1) to December (12), and the y-axis shows the electricity demand in megawatts (MW), ranging from 65,000 MW to 100,000 MW.\n\n### Key Observations:\n\n- **2024 (Red Line):** \n  - Peaks at 97,115 MW in August.\n  - Lowest demand is 69,899 MW in May.\n  - Shows a significant increase from May to August.\n\n- **2023 (Blue Line):**\n  - Peaks at 93,700 MW in August.\n  - Lowest demand is 72,272 MW in May.\n  - Follows a similar trend to 2024 but with lower values.\n\n- **2025 (Orange Line):**\n  - Peaks at 95,300 MW in January.\n  - Shows a decline to 89,231 MW in February.\n  - The trend is not fully visible but starts high.\n\n- **2022 (Pink Line):**\n  - Peaks at 92,990 MW in August.\n  - Lowest demand is 71,881 MW in April.\n\n- **2021 (Black Line):**\n  - Peaks at 89,091 MW in August.\n  - Lowest demand is 66,699 MW in April.\n\n- **2020 (Green Line):**\n  - Peaks at 86,555 MW in August.\n  - Lowest demand is 68,454 MW in November.\n\n### Trends:\n\n- **Seasonal Peaks:** All years show a peak in demand during the summer months (July-August), likely due to increased cooling needs.\n- **Lowest Demand:** Typically occurs in the spring (April-May) and late fall (November), indicating lower energy consumption during these periods.\n- **Yearly Increase:** There is a general upward trend in peak demand from 2020 to 2024, indicating growing electricity needs over the years.\n\nThis chart provides a clear visualization of the seasonal and annual variations in electricity demand, highlighting the increasing trend over the years.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년12월전력수요예측전망/page2_id9_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides data on electricity demand forecasts for December from 2020 to 2024, focusing on maximum and average demand in megawatts (MW), along with year-over-year growth rates.\n\n### Maximum Demand (MW)\n- **2020.12**: 85,132 MW with a growth rate of 4.1%\n- **2021.12**: 90,708 MW with a growth rate of 6.5%\n- **2022.12**: 94,509 MW with a growth rate of 4.2%\n- **2023.12**: 91,556 MW with a decrease of 3.1%\n- **2024.12**: Forecasted at 93,700 MW with a growth rate of 2.3%\n\n### Average Demand (MW)\n- **2020.12**: 67,922 MW with a growth rate of 1.9%\n- **2021.12**: 70,013 MW with a growth rate of 3.1%\n- **2022.12**: 73,576 MW with a growth rate of 5.1%\n- **2023.12**: 68,885 MW with a decrease of 6.4%\n- **2024.12**: Forecasted at 71,300 MW with a growth rate of 3.5%\n\n### Trends\n- **Maximum Demand**: After a peak in 2022, there was a decline in 2023, but a recovery is expected in 2024.\n- **Average Demand**: Similar to maximum demand, there was a decline in 2023, with a recovery forecasted for 2024.\n\nOverall, the data indicates fluctuations in electricity demand, with a notable dip in 2023 followed by a projected increase in 2024.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년12월전력수요예측전망/page2_id12_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2024년 12월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast for December 2024, broken down by week. The demand is measured in megawatts (MW).\n\n- **1st Week (12/2 - 12/8):** The maximum demand is projected to be 88,200 MW.\n- **2nd Week (12/9 - 12/15):** The demand increases to 92,500 MW.\n- **3rd Week (12/16 - 12/22):** The demand further rises to 93,500 MW.\n- **4th Week (12/23 - 12/29):** The highest demand is expected, reaching 93,700 MW.\n\n**Trend Analysis:**\n- There is a consistent increase in electricity demand throughout December.\n- The demand starts at 88,200 MW in the first week and peaks at 93,700 MW in the fourth week.\n- The most significant increase occurs between the first and second weeks, with a rise of 4,300 MW.\n- The increase from the third to the fourth week is relatively small, at 200 MW. \n\nThis trend suggests a growing need for electricity as the month progresses, possibly due to seasonal factors.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년12월전력수요예측전망/page3_id18_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2025년 1월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast in megawatts (MW) for five weeks, spanning from December 30 to February 2. Here's a detailed summary:\n\n- **1st Week (12/30 - 1/5):** The maximum demand is forecasted at 89,100 MW.\n- **2nd Week (1/6 - 1/12):** The demand increases to 95,000 MW.\n- **3rd Week (1/13 - 1/19):** The peak demand slightly rises to 95,300 MW, marking the highest demand in this period.\n- **4th Week (1/20 - 1/26):** The demand remains steady at 95,000 MW.\n- **5th Week (1/27 - 2/2):** There is a significant drop in demand to 81,200 MW.\n\n**Trend Analysis:**\n- The demand shows an upward trend from the 1st to the 3rd week, peaking in the 3rd week.\n- The demand stabilizes in the 4th week before experiencing a notable decrease in the 5th week.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년12월전력수요예측전망/page3_id22_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "- 기온 고려 Reg-ARIMA 모형 : 70,900㎿\n- 체감온도 고려 Reg-ARIMA 모형 : 70,600㎿\n- 인공신경망(NN+AR) 모형 : 71,800㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 72,200㎿\n- 거래소 SELF 예측모형 : 70,900㎿"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {
+      "temperature": "평년과 비슷"
+    }
+  },
+  "metadata": {
+    "total_pages": 7,
+    "charts_count": 7,
+    "tables_count": 3,
+    "processing_date": "2025-11-06 03:33:16"
+  }
+}

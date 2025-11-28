@@ -1,0 +1,78 @@
+{
+  "document_info": {
+    "title": "2021년6월전력수요예측전망",
+    "date": "2021. 5.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "subsections": [
+        {
+          "subtitle": " 6월 기온 전망",
+          "content": "평년*(21.1~21.7℃) 보다 비슷하거나 높을 확률이 각각 40%이며, 따뜻한 공기의\n영향을 주로 받겠으나, 상층 찬 공기의 영향으로 평년보다 낮은 기온 분포를\n보일 때가 있겠음."
+        },
+        {
+          "subtitle": " 6월 강수량 전망"
+        },
+        {
+          "subtitle": "○ 강수량은 평년(101.6 ~ 174.0㎜)과 비슷하거나 많을 확률이 각각 40%\n※ 상세 기온 및 강수량 전망내용은 붙임 참조"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "chart": {
+            "image_path": "/home/user/langchain-study/2021_visuals_output/2021년6월전력수요예측전망/page2_id36_chart.png"
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망"
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "76,100㎿"
+        },
+        {
+          "subtitle": "2020년 6월 주별 최대전력"
+        },
+        {
+          "subtitle": "2020년 7월 주별 최대전력"
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "59,400㎿ (100㎿ 단위로 반올림하여 작성하였음)",
+          "methodology": "○ 아래 5개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 예측 : 60,700㎿\n- ARIMA이용(Census X-13) 예측 : 59,200㎿\n- Holt-Winters 지수평활 예측 : 58,800㎿\n- ETS 지수평활 예측 : 58,700㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 59,700㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세"
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_pages": 6,
+    "processing_date": "2025-11-06 01:27:05"
+  }
+}

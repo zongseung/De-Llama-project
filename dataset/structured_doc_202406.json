@@ -1,0 +1,121 @@
+{
+  "document_info": {
+    "title": "2024년6월전력수요예측전망",
+    "date": "2024. 5.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구(☏8802)\n대리 송민호(☏8803)\n대리 송재인(☏8808)",
+    "filepath": "/home/user/langchain-study/2024_수요보고서/2024년6월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "기상전망 요약",
+          "content": "`24.6~`24.7월 기상전망\n6월 기온은 평년보다 높겠고, 강수량은 평년과 비슷하겠음\n기 온 : 평년(21.1~21.7℃) 보다 낮음 20%, 비슷 30%, 높음 50%\n- 강수량 : 평년(101.6~174.0㎜) 보다 적음 20%, 비슷 50%, 많음 30%\n7월 기온은 평년과 비슷하거나 높겠고, 강수량은 평년과 비슷하거나 많겠음\n- 기 온 : 평년(24.0~25.2℃) 보다 낮음 20%, 비슷 40%, 높음 40%\n- 강수량 : 평년(245.9~308.2㎜) 보다 적음 20%, 비슷 40%, 많음 40%",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2020 to 2024, with the x-axis representing months (1 to 12) and the y-axis showing demand in MW, ranging from 65,000 to 100,000 MW.\n\n### Key Observations:\n\n- **2024 Forecast (Red Line):**\n  - Peaks at 93,400 MW in July.\n  - Lowest demand is 69,074 MW in May.\n  - Starts at 89,231 MW in January and ends at 84,093 MW in December.\n\n- **2023 Data (Pink Line):**\n  - Peaks at 94,509 MW in August.\n  - Lowest demand is 72,544 MW in November.\n  - Starts at 92,613 MW in January and ends at 91,556 MW in December.\n\n- **2022 Data (Purple Line):**\n  - Peaks at 93,400 MW in July.\n  - Lowest demand is 72,292 MW in May.\n  - Starts at 89,337 MW in January and ends at 84,742 MW in December.\n\n- **2021 Data (Green Line):**\n  - Peaks at 89,091 MW in August.\n  - Lowest demand is 66,699 MW in May.\n  - Starts at 90,654 MW in January and ends at 86,555 MW in December.\n\n- **2020 Data (Black Line):**\n  - Peaks at 86,682 MW in August.\n  - Lowest demand is 65,700 MW in May.\n  - Starts at 82,352 MW in January and ends at 85,132 MW in December.\n\n### Trends:\n\n- **Seasonal Variation:**\n  - All years show a similar pattern with peaks in summer months (July-August) and troughs in spring (May) and late autumn (November).\n\n- **Increasing Demand:**\n  - There is a general upward trend in peak demand from 2020 to 2024, indicating growing electricity needs.\n\nThis chart provides a clear visualization of the seasonal and annual changes in electricity demand, highlighting the increasing trend over the years.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년6월전력수요예측전망/page2_id10_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides data on electricity demand for June from 2020 to 2024, focusing on two metrics: maximum demand (최대부하) and average demand (평균부하), both measured in megawatts (MW). It also includes the year-on-year growth rate in percentage.\n\n### Maximum Demand (최대부하)\n\n- **2020.6월**: 75,247 MW with a growth rate of 0.1%\n- **2021.6월**: 75,854 MW with a growth rate of 0.8%\n- **2022.6월**: 84,742 MW with a growth rate of 11.7%\n- **2023.6월**: 82,196 MW with a decrease of -3.0%\n- **2024.6월**: 82,100 MW with a decrease of -0.1%\n\n**Trend**: There was a significant increase in 2022, followed by a decrease in 2023 and a slight decrease projected for 2024.\n\n### Average Demand (평균부하)\n\n- **2020.6월**: 58,680 MW with a decrease of -1.7%\n- **2021.6월**: 61,202 MW with a growth rate of 4.3%\n- **2022.6월**: 63,726 MW with a growth rate of 4.1%\n- **2023.6월**: 62,444 MW with a decrease of -2.0%\n- **2024.6월**: 61,700 MW with a decrease of -1.2%\n\n**Trend**: After increases in 2021 and 2022, there was a decline in 2023, with a further decrease projected for 2024.\n\nOverall, both maximum and average demand show a peak in 2022, followed by a downward trend in the subsequent years.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년6월전력수요예측전망/page2_id13_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2024년 6월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the projected maximum electricity demand (in megawatts, MW) for June 2024, broken down by week. Here's a detailed summary:\n\n- **1st Week (6/3 - 6/9):** The maximum demand is projected to be 76,800 MW.\n- **2nd Week (6/10 - 6/16):** The demand increases to 78,800 MW.\n- **3rd Week (6/17 - 6/23):** The demand further rises to 81,700 MW.\n- **4th Week (6/24 - 6/30):** The highest demand for the month is projected at 82,100 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand throughout June 2024.\n- The demand increases by 2,000 MW from the 1st to the 2nd week.\n- From the 2nd to the 3rd week, the increase is 2,900 MW.\n- The increase from the 3rd to the 4th week is 400 MW.\n\nOverall, the data indicates a steady rise in electricity demand as the month progresses.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년6월전력수요예측전망/page3_id19_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2024년 7월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the projected maximum electricity demand (in megawatts, MW) for each week of July 2024. Here's a detailed summary:\n\n- **1st Week (7/1 - 7/7):** The maximum demand is projected to be 86,000 MW.\n- **2nd Week (7/8 - 7/14):** The demand increases to 89,400 MW.\n- **3rd Week (7/15 - 7/21):** The demand further rises to 91,000 MW.\n- **4th Week (7/22 - 7/28):** The highest demand is expected, reaching 93,400 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand throughout the month.\n- The demand increases by 3,400 MW from the 1st to the 2nd week, 1,600 MW from the 2nd to the 3rd week, and 2,400 MW from the 3rd to the 4th week.\n- Overall, the demand grows by 7,400 MW from the beginning to the end of the month.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년6월전력수요예측전망/page3_id23_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "- 거래소 SELF 예측모형 : 67,000㎿\n- 기온 고려 Reg-ARIMA 모형 : 68,000㎿\n- TBATS 모형 : 66,800㎿\n- 인공신경망(NN+AR) 예측 : 67,900㎿\n- Holt-Winters 승법형 지수평활모형 : 68,800㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 70,400㎿"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {
+      "temperature": "평년과 비슷"
+    }
+  },
+  "metadata": {
+    "total_pages": 9,
+    "charts_count": 6,
+    "tables_count": 3,
+    "processing_date": "2025-11-06 03:33:16"
+  }
+}

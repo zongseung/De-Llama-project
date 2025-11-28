@@ -1,0 +1,182 @@
+{
+  "document_info": {
+    "title": "2022년8월전력수요예측전망",
+    "date": "",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 박희준(☏8801)\n수요예측팀 대리 손흥구(☏8806)",
+    "filepath": "/home/user/langchain-study/2022_수요보고서/2022년8월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": " `22.8월 기온 전망",
+          "content": "평년*(24.6~25.6℃)보다 높을 확률이 50%이며, 북태평양고기압의 영향을 주로\n받아 덥고 습하겠음\n* 평년범위는 과거 30년(`91-`20년)간 연도별 30개의 평균값 중 대략적으로 33.33%~66.67%에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": " `22.7월 강수량 전망",
+          "content": "평년(225.3~346.7㎜)과 비슷할 확률이 50%이며, 발달한 저기압과 대기불안정에\n의해 비가 내릴 때가 있겠음",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2018 to 2022, with the y-axis representing demand in megawatts (MW) ranging from 60,000 to 95,000 MW, and the x-axis representing months from 1 to 12.\n\n### Key Observations:\n\n- **2022 (Red Line):**\n  - Starts at 89,391 MW in January.\n  - Peaks at 93,700 MW in August.\n  - Lowest demand is 71,879 MW in May.\n\n- **2021 (Blue Line):**\n  - Begins at 90,564 MW in January.\n  - Peaks at 92,980 MW in August.\n  - Lowest demand is 70,966 MW in May.\n\n- **2020 (Pink Line):**\n  - Starts at 87,351 MW in January.\n  - Peaks at 91,545 MW in August.\n  - Lowest demand is 65,700 MW in May.\n\n- **2019 (Green Line):**\n  - Begins at 88,238 MW in January.\n  - Peaks at 91,141 MW in August.\n  - Lowest demand is 69,140 MW in May.\n\n- **2018 (Black Line):**\n  - Starts at 87,247 MW in January.\n  - Peaks at 90,314 MW in August.\n  - Lowest demand is 66,699 MW in May.\n\n### Trends:\n\n- All years show a similar pattern with peaks in August and troughs in May.\n- 2022 shows the highest peak demand in August compared to other years.\n- The general trend indicates higher demand in the summer months and lower demand in the spring.\n\nThis chart provides a clear view of seasonal variations in electricity demand, with consistent peaks in the summer months across all years.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년8월전력수요예측전망/page2_id37_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents electricity demand forecasts for August from 2018 to 2022, focusing on two metrics: maximum load (최대부하) and average load (평균부하), both measured in megawatts (MW). It also includes the year-on-year growth rates in percentages.\n\n### Maximum Load (MW)\n- **2018.8월**: 91,548 MW with a growth rate of +8.4%\n- **2019.8월**: 90,314 MW, a decrease of -1.3%\n- **2020.8월**: 89,091 MW, a decrease of -1.4%\n- **2021.8월**: 86,355 MW, a decrease of -3.1%\n- **2022.8월**: 93,700 MW with a growth rate of +8.5%\n\n### Average Load (MW)\n- **2018.8월**: 70,742 MW with a growth rate of +8.6%\n- **2019.8월**: 68,207 MW, a decrease of -3.6%\n- **2020.8월**: 66,980 MW, a decrease of -1.8%\n- **2021.8월**: 67,635 MW with a growth rate of +1.0%\n- **2022.8월**: 69,200 MW with a growth rate of +2.3%\n\n### Trends\n- **Maximum Load**: After a peak in 2018, there was a decline until 2021, followed by a significant increase in 2022.\n- **Average Load**: Similar to the maximum load, there was a decline from 2018 to 2020, a slight increase in 2021, and a further increase in 2022.\n\nOverall, both maximum and average loads show a recovery in 2022 after a period of decline, indicating a resurgence in electricity demand.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년8월전력수요예측전망/page2_id40_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2022년 8월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand (in megawatts, MW) forecasted for each week of August 2022. Here's a detailed summary:\n\n- **1st Week (8/1 - 8/7):** The maximum demand is 85,500 MW.\n- **2nd Week (8/8 - 8/14):** The demand increases to 93,700 MW, marking the highest demand in the month.\n- **3rd Week (8/15 - 8/21):** The demand slightly decreases to 92,100 MW.\n- **4th Week (8/22 - 8/28):** The demand further decreases to 89,800 MW.\n\n**Trend Analysis:**\n- There is a noticeable increase in demand from the 1st to the 2nd week.\n- The demand peaks in the 2nd week and then gradually decreases in the following weeks.\n- Overall, the demand fluctuates, with the highest demand in the 2nd week and the lowest in the 1st week.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년8월전력수요예측전망/page3_id46_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2022년 8월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand (in megawatts, MW) over a five-week period from late August to early October 2022. Here's a detailed summary:\n\n- **1st Week (8/29 - 9/4):** The maximum demand is projected to be 84,400 MW.\n- **2nd Week (9/5 - 9/11):** The demand decreases to 82,500 MW.\n- **3rd Week (9/12 - 9/18):** A further decrease is expected, with demand at 79,300 MW.\n- **4th Week (9/19 - 9/25):** The demand continues to decline to 76,500 MW.\n- **5th Week (9/26 - 10/2):** The lowest demand in this period is forecasted at 75,000 MW.\n\n**Trend Analysis:**\n- There is a consistent downward trend in the maximum electricity demand over the five weeks.\n- The demand decreases by 9,400 MW from the first to the fifth week, indicating a gradual reduction in electricity needs as the period progresses.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년8월전력수요예측전망/page3_id49_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "○ 아래 4개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 : 68,500㎿\n- ARIMA 모형(Census X-13) : 70,200㎿\n- Holt-Winters 지수평활 모형 : 69,200㎿\n- ETS 지수평활 예측 : 69,000㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for August 2022, focusing on temperature and precipitation probabilities influenced by atmospheric pressure systems.\n\n### Week 1 (8/1~8/7)\n- **Influence**: Mainly affected by high pressure from the North Pacific, with occasional low-pressure influence.\n- **Temperature**: 50% probability of being higher than the average (25.5~27.1°C).\n- **Precipitation**: 50% probability of being similar to the average (22.4~68.0mm).\n\n### Week 2 (8/8~8/14)\n- **Influence**: Dominated by high pressure from the North Pacific, with many cloudy days.\n- **Temperature**: 50% probability of being higher than the average (25.1~26.7°C).\n- **Precipitation**: 40% probability of being similar to or less than the average (26.8~77.8mm).\n\n### Week 3 (8/15~8/21)\n- **Influence**: Dominated by high pressure from the North Pacific, with occasional low-pressure influence.\n- **Temperature**: 40% probability of being similar to or higher than the average (24.4~25.8°C).\n- **Precipitation**: 50% probability of being similar to the average (24.1~83.9mm).\n\n### Week 4 (8/22~8/28)\n- **Influence**: Dominated by high pressure from the North Pacific, with occasional low-pressure influence.\n- **Temperature**: 40% probability of being similar to or higher than the average (23.4~24.6°C).\n- **Precipitation**: 50% probability of being similar to the average (46.8~70.1mm).\n\n### Summary\nThroughout August, the region is primarily influenced by high pressure from the North Pacific, with varying probabilities of higher temperatures and precipitation levels compared to historical averages. The likelihood of conditions being similar to or exceeding these averages varies weekly, with notable cloudiness in the second week.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년8월전력수요예측전망/page4_id56_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks in August 2022. Here's a detailed breakdown:\n\n### Temperature (평균기온)\n- **1st Week (1주):** \n  - Average Range: 25.5°C to 27.1°C\n  - Probability: Low 20%, Normal 30%, High 50%\n  \n- **2nd Week (2주):** \n  - Average Range: 25.1°C to 26.7°C\n  - Probability: Low 20%, Normal 30%, High 50%\n  \n- **3rd Week (3주):** \n  - Average Range: 24.4°C to 25.8°C\n  - Probability: Low 20%, Normal 40%, High 40%\n  \n- **4th Week (4주):** \n  - Average Range: 23.4°C to 24.6°C\n  - Probability: Low 20%, Normal 40%, High 40%\n\n### Precipitation (강수량)\n- **1st Week (1주):** \n  - Average Range: 22.4mm to 68.0mm\n  - Probability: Low 30%, Normal 50%, High 20%\n  \n- **2nd Week (2주):** \n  - Average Range: 26.8mm to 77.8mm\n  - Probability: Low 40%, Normal 40%, High 20%\n  \n- **3rd Week (3주):** \n  - Average Range: 24.1mm to 83.9mm\n  - Probability: Low 20%, Normal 50%, High 30%\n  \n- **4th Week (4주):** \n  - Average Range: 46.8mm to 70.1mm\n  - Probability: Low 30%, Normal 50%, High 20%\n\n### Trends\n- **Temperature:** The highest probability for high temperatures is in the first two weeks (50%). The probability of normal temperatures increases in the third and fourth weeks (40%).\n- **Precipitation:** The probability of normal precipitation is consistently high across all weeks, with the highest chance in the first and fourth weeks (50%).\n\nThis forecast suggests a warm start to August with a gradual decrease in temperature and consistent precipitation levels.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년8월전력수요예측전망/page4_id60_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기온범위(°C)",
+                  "강수량(mm)"
+                ],
+                "rows": [],
+                "data_type": "weather",
+                "fields": [
+                  "week",
+                  "temp_range",
+                  "precip_range"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 6,
+    "charts_count": 4,
+    "tables_count": 5,
+    "processing_date": "2025-11-18 00:59:07"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "document_info": {
+    "title": "2023년11월전력수요예측전망 전송 (1)",
+    "date": "2023. 10.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구(☏8802)\n주임 문정민(☏8804)",
+    "filepath": "/home/user/langchain-study/2023_수요보고서/2023년11월전력수요예측전망_전송 (1).pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": " 11월 기온 전망",
+          "content": "평년*(7.0~8.2℃)보다 비슷하거나 높을 확률이 각각 40%이며, 이동성 고기압의\n영향을 주로 받겠으나 일시적으로 북서쪽 찬 공기의 영향을 받을 때가 있겠\n고, 남서쪽에서 다가오는 저기압의 영향으로 많은 비가 내릴 때가 있겠음\n* 평년범위는 과거 30년(`91-`20년)간 연도별 30개의 평균값 중 대략적으로 33.33%~66.67%에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": " 11월 강수량 전망",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "○ 평년(30.7~55.1㎜)과 비슷하거나 많을 확률이 각각 40%임\n※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2019 to 2023, with monthly data points. The y-axis represents electricity demand in units of 1,000 MWh, ranging from 65,000 to 100,000. The x-axis represents months from 1 to 12.\n\n### Key Observations:\n\n- **2023 (Red Line):**\n  - Starts at 92,613 in January.\n  - Peaks at 93,615 in August.\n  - Lowest point is 70,985 in October.\n  - Ends at 81,900 in December.\n\n- **2022 (Blue Line):**\n  - Begins at 89,397 in January.\n  - Peaks at 94,509 in December.\n  - Lowest point is 73,136 in May.\n\n- **2021 (Pink Line):**\n  - Starts at 85,392 in January.\n  - Peaks at 87,033 in July.\n  - Lowest point is 72,292 in May.\n\n- **2020 (Green Line):**\n  - Begins at 82,352 in January.\n  - Peaks at 92,990 in August.\n  - Lowest point is 66,699 in May.\n\n- **2019 (Black Line):**\n  - Starts at 81,493 in January.\n  - Peaks at 84,742 in July.\n  - Lowest point is 68,454 in May.\n\n### Trends:\n\n- **Seasonal Variation:**\n  - All years show a general trend of higher demand in the summer months (July-August) and lower demand in the spring (April-May).\n  \n- **2023 Forecast:**\n  - Shows a significant peak in August, similar to previous years, but with a notable drop in October.\n\n- **Comparison:**\n  - 2023's peak demand is slightly lower than 2022's peak but higher than other years.\n  - The lowest demand in 2023 is higher than the lowest points in previous years, indicating a generally higher demand throughout the year.\n\nThis chart provides a clear visualization of the seasonal fluctuations in electricity demand and highlights the expected trends for 2023 compared to previous years.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년11월전력수요예측전망_전송 (1)/page2_id35_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides data on electricity demand in megawatts (MW) for November from 2019 to 2023, focusing on maximum and average loads, along with their year-over-year growth rates.\n\n### Maximum Load (최대부하)\n- **2019.11**: 74,393 MW, with a decrease of 2.0% from the previous year.\n- **2020.11**: 77,096 MW, an increase of 3.6%.\n- **2021.11**: 80,362 MW, an increase of 4.2%.\n- **2022.11**: 82,117 MW, an increase of 2.2%.\n- **2023.11**: 81,900 MW, a slight decrease of 0.3%.\n\n### Average Load (평균부하)\n- **2019.11**: 61,420 MW, with a decrease of 2.6%.\n- **2020.11**: 60,974 MW, a decrease of 0.7%.\n- **2021.11**: 63,286 MW, an increase of 3.8%.\n- **2022.11**: 62,293 MW, a decrease of 1.6%.\n- **2023.11**: 64,800 MW, an increase of 4.0%.\n\n### Trends\n- The maximum load shows a general increasing trend from 2019 to 2022, peaking in 2022, followed by a slight decrease in 2023.\n- The average load fluctuates, with decreases in 2019 and 2020, an increase in 2021, a decrease in 2022, and a notable increase in 2023.\n\nOverall, the data indicates variability in electricity demand, with recent years showing a stabilization in maximum load and a recovery in average load.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년11월전력수요예측전망_전송 (1)/page2_id38_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2023년 11월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand (in megawatts, MW) for five consecutive weeks from October 30 to December 3, 2023. Here's a detailed summary:\n\n- **1st Week (10/30 - 11/5):** The maximum demand is projected to be 72,700 MW.\n- **2nd Week (11/6 - 11/12):** The demand slightly increases to 73,300 MW.\n- **3rd Week (11/13 - 11/19):** A more noticeable increase is observed, with demand reaching 75,500 MW.\n- **4th Week (11/20 - 11/26):** The demand continues to rise, reaching 79,000 MW.\n- **5th Week (11/27 - 12/3):** The highest demand is forecasted at 81,900 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand over the five weeks.\n- The increase from the 1st to the 5th week is 9,200 MW, indicating a growing demand as the weeks progress.\n- The most significant weekly increase occurs between the 3rd and 4th weeks, with a rise of 3,500 MW.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년11월전력수요예측전망_전송 (1)/page3_id44_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2023년 12월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand (in megawatts, MW) for each week of December 2023. Here's a detailed summary:\n\n- **1st Week (12/4 - 12/10):** The maximum demand is projected to be 87,400 MW.\n- **2nd Week (12/11 - 12/17):** The demand increases to 91,600 MW.\n- **3rd Week (12/18 - 12/24):** A slight increase is expected, with demand reaching 91,800 MW.\n- **4th Week (12/25 - 12/31):** The demand peaks at 92,700 MW.\n\n**Trend Analysis:**\n- There is a consistent increase in electricity demand throughout December.\n- The largest increase occurs between the 1st and 2nd weeks, with a rise of 4,200 MW.\n- The demand continues to rise slightly in the 3rd week and reaches its highest in the 4th week.\n\nThis trend suggests a growing need for electricity as the month progresses, possibly due to seasonal factors such as colder weather and holiday activities.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년11월전력수요예측전망_전송 (1)/page3_id47_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "○ 2023년 12월 전망결과 : 72,700㎿ (아래 3개 모형의 평균)\n- SELF(Short-term Electricity Load Forecasting) 모형 : 72,300㎿\n- ARIMA 모형(Census X-13) : 72,900㎿\n- Holt-Winters 지수평활 모형 : 73,100㎿\n- ETS 지수평활 예측 : 72,600㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "기상 패턴 전망",
+          "content": "○ 11월은 이동성 고기압의 영향을 받으며 일시적으로 북서쪽 찬 공기의 영향을\n받을 때가 있겠고, 남서쪽 저기압의 영향으로 많은 비가 내릴 때가 있겠음\n- 기 온 : 평년(7.0~8.2℃) 보다 낮음 20%, 비슷 40%, 높음 40%\n- 강수량 : 평년(30.7~55.1㎜) 보다 적음 20%, 비슷 40%, 많음 40%",
+          "page": 4,
+          "related_data": null
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for November, focusing on temperature and precipitation trends influenced by atmospheric pressure systems.\n\n### Week 1 (10/30~11/5)\n- **Temperature**: There is a 50% chance that the temperature will be higher than the average range of 9.4°C to 11.2°C.\n- **Precipitation**: There is a 40% chance of precipitation being similar to or more than the average range of 2.2mm to 6.9mm.\n\n### Week 2 (11/6~11/12)\n- **Temperature**: There is a 40% chance of temperatures being similar to or higher than the average range of 9.1°C to 10.7°C.\n- **Precipitation**: There is a 50% chance of precipitation being similar to the average range of 6.9mm to 15.8mm.\n\n### Week 3 (11/13~11/19)\n- **Temperature**: There is a 50% chance of temperatures being similar to the average range of 6.1°C to 8.3°C.\n- **Precipitation**: There is a 40% chance of precipitation being similar to or more than the average range of 3.0mm to 11.3mm.\n\n### Week 4 (11/20~11/26)\n- **Temperature**: There is a 50% chance of temperatures being higher than the average range of 4.8°C to 6.2°C.\n- **Precipitation**: There is a 50% chance of precipitation being more than the average range of 3.3mm to 7.8mm.\n\n### Trends\n- The influence of moving high-pressure systems is noted throughout the month, with varying impacts from low-pressure systems.\n- Temperature and precipitation probabilities indicate a likelihood of conditions being similar to or exceeding historical averages.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년11월전력수요예측전망_전송 (1)/page4_id55_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks, with probabilities for different conditions.\n\n### Temperature:\n- **1st Week:**\n  - Average Range: 9.4°C to 11.2°C\n  - Probability: Low 10%, Normal 40%, High 50%\n  \n- **2nd Week:**\n  - Average Range: 9.1°C to 10.7°C\n  - Probability: Low 20%, Normal 40%, High 40%\n  \n- **3rd Week:**\n  - Average Range: 6.1°C to 8.3°C\n  - Probability: Low 20%, Normal 50%, High 30%\n  \n- **4th Week:**\n  - Average Range: 4.8°C to 6.2°C\n  - Probability: Low 10%, Normal 40%, High 50%\n\n### Precipitation:\n- **1st Week:**\n  - Average Range: 2.2mm to 6.9mm\n  - Probability: Low 20%, Normal 40%, High 40%\n  \n- **2nd Week:**\n  - Average Range: 6.9mm to 15.8mm\n  - Probability: Low 20%, Normal 50%, High 30%\n  \n- **3rd Week:**\n  - Average Range: 3.0mm to 11.3mm\n  - Probability: Low 20%, Normal 40%, High 40%\n  \n- **4th Week:**\n  - Average Range: 3.3mm to 7.8mm\n  - Probability: Low 20%, Normal 30%, High 50%\n\n### Trends:\n- **Temperature:** The average temperature decreases from the 1st to the 4th week.\n- **Precipitation:** The highest probability of high precipitation is in the 4th week (50%).\n\nThis forecast suggests a cooling trend with varying precipitation probabilities, peaking in the 4th week.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년11월전력수요예측전망_전송 (1)/page4_id58_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 6,
+    "charts_count": 3,
+    "tables_count": 5,
+    "processing_date": "2025-11-17 21:32:56"
+  }
+}

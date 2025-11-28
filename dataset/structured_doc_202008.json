@@ -1,0 +1,271 @@
+{
+  "document_info": {
+    "title": "2020년8월전력수요예측전망(최종)",
+    "date": "2020. 7.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)",
+    "filepath": "/home/user/langchain-study/2020_수요보고서/2020년8월전력수요예측전망(최종).pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "8월 기온 전망",
+          "content": "평년(25.1℃) 보다 1~1.5℃ 높겠고, 작년(26.2℃)과 비슷하거나 0.5℃ 높겠음",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "8월 강수량 전망",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "○ 강수량은 대체로 평년과 비슷하거나 적겠으나, 지역 편차가 크겠으며 발달한\n저기압과 대기불안정에 의해 국지적으로 많은 비가 내릴 때가 있겠음\n※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "이 차트는 2016년부터 2020년까지의 월별 전력 수요 예측을 보여줍니다. \n\n- **축**: \n  - x축은 월을 나타내며, 1월부터 12월까지입니다.\n  - y축은 전력 수요를 kW 단위로 나타냅니다. 범위는 6,000kW에서 9,500kW까지입니다.\n\n- **수치 및 추세**:\n  - 2016년(검은색 선): 전력 수요는 1월에 8,268kW로 시작하여 5월에 6,570kW로 최저점을 찍고, 8월에 8,530kW로 최고점을 기록한 후 12월에 7,999kW로 마무리됩니다.\n  - 2017년(녹색 선): 1월에 8,142kW로 시작하여 5월에 6,913kW로 최저점을 기록하고, 8월에 8,128kW로 최고점을 기록한 후 12월에 8,222kW로 마무리됩니다.\n  - 2018년(분홍색 선): 1월에 8,904kW로 시작하여 5월에 7,052kW로 최저점을 기록하고, 8월에 9,249kW로 최고점을 기록한 후 12월에 8,585kW로 마무리됩니다.\n  - 2019년(파란색 선): 1월에 8,547kW로 시작하여 5월에 7,300kW로 최저점을 기록하고, 8월에 9,161kW로 최고점을 기록한 후 12월에 8,622kW로 마무리됩니다.\n  - 2020년(빨간색 선): 1월에 8,171kW로 시작하여 5월에 6,670kW로 최저점을 기록하고, 8월에 8,730kW로 최고점을 기록한 후 12월에 8,222kW로 마무리됩니다.\n\n전반적으로 모든 해에서 전력 수요는 여름(8월)에 최고점을 기록하고 봄(5월)에 최저점을 기록하는 경향을 보입니다.",
+              "image_path": "/home/user/langchain-study/2020_visuals_output/2020년8월전력수요예측전망(최종)/page2_id10_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "이 표는 2016년부터 2020년까지 8월의 전력 수요를 최대부하와 평균부하로 나누어 보여주고 있습니다. 각 연도의 수치는 만 kW 단위로 표시되며, 전년 대비 증가율도 함께 제공됩니다.\n\n1. **최대부하 (만 kW)**\n   - 2016년 8월: 8,530 (+10.7%)\n   - 2017년 8월: 8,501 (-0.3%)\n   - 2018년 8월: 9,161 (+7.8%)\n   - 2019년 8월: 9,039 (-1.3%)\n   - 2020년 8월: 8,730 (-3.4%)\n\n   **추세:** 2016년부터 2018년까지는 증가 추세를 보였으나, 2019년과 2020년에는 감소세로 전환되었습니다.\n\n2. **평균부하 (만 kW)**\n   - 2016년 8월: 6,547 (+4.7%)\n   - 2017년 8월: 6,514 (+5.5%)\n   - 2018년 8월: 7,074 (+4.2%)\n   - 2019년 8월: 6,821 (-4.7%)\n   - 2020년 8월: 6,470 (-5.1%)\n\n   **추세:** 2016년부터 2018년까지는 증가했으나, 2019년과 2020년에는 감소세로 돌아섰습니다.\n\n**문맥 요약:** 2020년 8월의 전력 수요는 최대부하와 평균부하 모두 전년 대비 감소하였으며, 이는 2019년에 이어 두 번째 연속 감소입니다. 이는 전력 수요의 감소 추세를 나타내며, 에너지 소비 패턴의 변화나 외부 요인에 의한 영향일 수 있습니다.\n\n---\n\n**English Translation:**\n\nThis table shows the electricity demand in August from 2016 to 2020, divided into maximum load and average load. The figures for each year are presented in ten thousand kW, along with the year-on-year growth rate.\n\n1. **Maximum Load (ten thousand kW)**\n   - August 2016: 8,530 (+10.7%)\n   - August 2017: 8,501 (-0.3%)\n   - August 2018: 9,161 (+7.8%)\n   - August 2019: 9,039 (-1.3%)\n   - August 2020: 8,730 (-3.4%)\n\n   **Trend:** There was an increasing trend from 2016 to 2018, but it turned into a decreasing trend in 2019 and 2020.\n\n2. **Average Load (ten thousand kW)**\n   - August 2016: 6,547 (+4.7%)\n   - August 2017: 6,514 (+5.5%)\n   - August 2018: 7,074 (+4.2%)\n   - August 2019: 6,821 (-4.7%)\n   - August 2020: 6,470 (-5.1%)\n\n   **Trend:** There was an increase from 2016 to 2018, but it turned into a decreasing trend in 2019 and 2020.\n\n**Context Summary:** In August 2020, both maximum and average electricity demand decreased compared to the previous year, marking the second consecutive year of decline. This indicates a downward trend in electricity demand, possibly due to changes in energy consumption patterns or external factors.",
+              "image_path": "/home/user/langchain-study/2020_visuals_output/2020년8월전력수요예측전망(최종)/page2_id13_table.png",
+              "structured_data": {
+                "headers": [
+                  "연도",
+                  "최대부하(만kW)",
+                  "증감률(%)",
+                  "평균부하(만kW)",
+                  "증감률(%)"
+                ],
+                "rows": [
+                  {
+                    "year": "2017",
+                    "max_load": 8501,
+                    "max_rate": "-0.3%",
+                    "avg_load": 6514,
+                    "avg_rate": "+5.5%"
+                  },
+                  {
+                    "year": "2018",
+                    "max_load": 9161,
+                    "max_rate": "+7.8%",
+                    "avg_load": 7074,
+                    "avg_rate": "+4.2%"
+                  },
+                  {
+                    "year": "2019",
+                    "max_load": 9039,
+                    "max_rate": "-1.3%",
+                    "avg_load": 6821,
+                    "avg_rate": "-4.7%"
+                  },
+                  {
+                    "year": "2020",
+                    "max_load": 8730,
+                    "max_rate": "-3.4%",
+                    "avg_load": 6470,
+                    "avg_rate": "-5.1%"
+                  },
+                  {
+                    "year": "2016",
+                    "max_load": "",
+                    "max_rate": "",
+                    "avg_load": 6547,
+                    "avg_rate": "+4.7%"
+                  }
+                ],
+                "data_type": "yearly",
+                "fields": [
+                  "year",
+                  "max_load",
+                  "max_rate",
+                  "avg_load",
+                  "avg_rate"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "8,730만kW",
+          "page": 3,
+          "related_data": null
+        },
+        {
+          "subtitle": "2020년 8월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "이 표는 2020년 8월의 주별 최대 전력 수요를 예측한 것입니다. 각 주의 최대 부하가 만 kW 단위로 표시되어 있습니다.\n\n- **1주 (8/3~8/9):** 최대 부하는 8,220만 kW입니다.\n- **2주 (8/10~8/16):** 최대 부하는 8,730만 kW로 증가했습니다.\n- **3주 (8/17~8/23):** 최대 부하는 8,580만 kW로 약간 감소했습니다.\n- **4주 (8/24~8/30):** 최대 부하는 8,150만 kW로 더 감소했습니다.\n\n전반적으로 2주차에 최대 부하가 가장 높았으며, 이후로는 감소하는 추세를 보입니다.\n\n---\n\nThis table forecasts the weekly maximum power demand for August 2020, measured in ten thousand kW.\n\n- **Week 1 (8/3~8/9):** The maximum load is 82,200,000 kW.\n- **Week 2 (8/10~8/16):** The maximum load increases to 87,300,000 kW.\n- **Week 3 (8/17~8/23):** The maximum load slightly decreases to 85,800,000 kW.\n- **Week 4 (8/24~8/30):** The maximum load further decreases to 81,500,000 kW.\n\nOverall, the highest demand is in the second week, followed by a decreasing trend.",
+              "image_path": "/home/user/langchain-study/2020_visuals_output/2020년8월전력수요예측전망(최종)/page3_id19_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기간",
+                  "최대부하(만kW)"
+                ],
+                "rows": [],
+                "data_type": "weekly",
+                "fields": [
+                  "week",
+                  "period",
+                  "value"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2020년 9월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "이 표는 2020년 8월 말부터 9월 말까지의 주간 최대 부하(전력 수요)를 예측한 것입니다. 각 주의 최대 부하는 만 kW 단위로 표시되어 있습니다.\n\n- **1주 (8/31~9/6):** 최대 부하는 7,790만 kW입니다.\n- **2주 (9/7~9/13):** 최대 부하는 7,650만 kW로, 1주에 비해 감소했습니다.\n- **3주 (9/14~9/20):** 최대 부하는 7,450만 kW로, 2주에 비해 더 감소했습니다.\n- **4주 (9/21~9/27):** 최대 부하는 7,130만 kW로, 3주에 비해 계속 감소했습니다.\n\n전반적으로 8월 말부터 9월 말까지 주간 최대 부하는 점진적으로 감소하는 추세를 보이고 있습니다.",
+              "image_path": "/home/user/langchain-study/2020_visuals_output/2020년8월전력수요예측전망(최종)/page3_id22_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기간",
+                  "최대부하(만kW)"
+                ],
+                "rows": [],
+                "data_type": "weekly",
+                "fields": [
+                  "week",
+                  "period",
+                  "value"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "6,470만kW (10만kW 단위로 반올림하여 작성하였음)",
+          "page": 3,
+          "related_data": null,
+          "methodology": "- SELF 이용 예측 : 6,350만㎾\n- ARIMA이용(Census X-13) 예측 : 6,550만㎾\n- Holt-Winters 지수평활 예측 : 6,360만㎾\n- ETS 지수평활 예측 : 6,350만㎾\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 6,730만kW"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "이 표는 2020년 8월의 주별 기온과 강수량 예측을 나타냅니다.\n\n1주 (8.3~8.9):\n- 덥고 습한 공기의 영향을 점차 받아 무더운 날이 많을 것으로 예상됩니다.\n- 발달한 비구름대의 영향으로 많은 비가 내릴 때가 있을 것입니다.\n- 평균 대비 기온은 비슷하거나 높을 것으로 보이며, 강수량은 비슷할 것입니다.\n\n2주 (8.10~8.16):\n- 덥고 습한 공기의 영향을 주로 받아 낮에는 일사로 인해 기온이 크게 상승할 것입니다.\n- 밤에는 열대야로 인해 무더운 날이 많을 것입니다.\n- 평균 대비 기온은 높을 것으로 예상되며, 강수량은 적을 것입니다.\n\n3주 (8.17~8.23):\n- 2주와 유사하게 덥고 습한 공기의 영향을 주로 받아 낮에는 일사로 인해 기온이 크게 상승할 것입니다.\n- 밤에는 열대야로 인해 무더운 날이 많을 것입니다.\n- 평균 대비 기온은 높을 것으로 예상되며, 강수량은 비슷하거나 적을 것입니다.\n\n4주 (8.24~8.30):\n- 덥고 습한 공기의 영향을 주로 받아 무더운 날이 많을 것입니다.\n- 발달한 비구름대의 영향으로 많은 비가 내릴 때가 있을 것입니다.\n- 평균 대비 기온은 비슷하거나 높을 것으로 보이며, 강수량은 비슷할 것입니다.\n\nOverall, the month of August is expected to be characterized by hot and humid conditions, with occasional heavy rainfall due to developed cloud bands. The temperature is generally expected to be similar to or higher than the average, with varying precipitation levels.",
+              "image_path": "/home/user/langchain-study/2020_visuals_output/2020년8월전력수요예측전망(최종)/page4_id30_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기온범위(°C)",
+                  "강수량(mm)"
+                ],
+                "rows": [],
+                "data_type": "weather",
+                "fields": [
+                  "week",
+                  "temp_range",
+                  "precip_range"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "이 표는 2020년 8월의 주별 평균 기온과 강수량 예측을 나타냅니다.\n\n### 평균기온\n- **1주차**: 25.3°C ~ 26.7°C\n  - 낮음: 20%\n  - 비슷: 40%\n  - 높음: 40%\n- **2주차**: 24.9°C ~ 26.3°C\n  - 낮음: 10%\n  - 비슷: 40%\n  - 높음: 50%\n- **3주차**: 24.2°C ~ 25.4°C\n  - 낮음: 20%\n  - 비슷: 30%\n  - 높음: 50%\n- **4주차**: 23.4°C ~ 24.4°C\n  - 낮음: 20%\n  - 비슷: 40%\n  - 높음: 40%\n\n### 강수량\n- **1주차**: 17.7mm ~ 50.8mm\n  - 적음: 30%\n  - 비슷: 50%\n  - 많음: 20%\n- **2주차**: 30.0mm ~ 81.1mm\n  - 적음: 50%\n  - 비슷: 30%\n  - 많음: 20%\n- **3주차**: 37.5mm ~ 65.6mm\n  - 적음: 40%\n  - 비슷: 40%\n  - 많음: 20%\n- **4주차**: 26.8mm ~ 89.0mm\n  - 적음: 20%\n  - 비슷: 50%\n  - 많음: 30%\n\n### 요약\n- **기온**: 2주차와 3주차에 높은 기온의 확률이 50%로 가장 높습니다.\n- **강수량**: 4주차에 많은 강수량의 확률이 30%로 가장 높습니다.\n\nThis table shows the weekly forecast for average temperature and precipitation in August 2020.\n\n### Average Temperature\n- **Week 1**: 25.3°C ~ 26.7°C\n  - Low: 20%\n  - Similar: 40%\n  - High: 40%\n- **Week 2**: 24.9°C ~ 26.3°C\n  - Low: 10%\n  - Similar: 40%\n  - High: 50%\n- **Week 3**: 24.2°C ~ 25.4°C\n  - Low: 20%\n  - Similar: 30%\n  - High: 50%\n- **Week 4**: 23.4°C ~ 24.4°C\n  - Low: 20%\n  - Similar: 40%\n  - High: 40%\n\n### Precipitation\n- **Week 1**: 17.7mm ~ 50.8mm\n  - Low: 30%\n  - Similar: 50%\n  - High: 20%\n- **Week 2**: 30.0mm ~ 81.1mm\n  - Low: 50%\n  - Similar: 30%\n  - High: 20%\n- **Week 3**: 37.5mm ~ 65.6mm\n  - Low: 40%\n  - Similar: 40%\n  - High: 20%\n- **Week 4**: 26.8mm ~ 89.0mm\n  - Low: 20%\n  - Similar: 50%\n  - High: 30%\n\n### Summary\n- **Temperature**: Weeks 2 and 3 have the highest probability (50%) of high temperatures.\n- **Precipitation**: Week 4 has the highest probability (30%) of high precipitation.",
+              "image_path": "/home/user/langchain-study/2020_visuals_output/2020년8월전력수요예측전망(최종)/page4_id33_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기온범위(°C)",
+                  "강수량(mm)"
+                ],
+                "rows": [],
+                "data_type": "weather",
+                "fields": [
+                  "week",
+                  "temp_range",
+                  "precip_range"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {
+      "max_load": "8,730만kW",
+      "avg_load": "6,470만kW"
+    },
+    "trend_analysis": {},
+    "weather_impact": {
+      "temperature": "평년과 비슷"
+    }
+  },
+  "metadata": {
+    "total_pages": 4,
+    "charts_count": 1,
+    "tables_count": 5,
+    "processing_date": "2025-11-05 01:27:59"
+  }
+}

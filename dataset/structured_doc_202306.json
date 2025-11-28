@@ -1,0 +1,182 @@
+{
+  "document_info": {
+    "title": "2023년6월전력수요예측전망 v2",
+    "date": "2023. 5.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구(☏8802)\n주임 문정민(☏8804)",
+    "filepath": "/home/user/langchain-study/2023_수요보고서/2023년6월전력수요예측전망_v2.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": " 6월 기온 전망",
+          "content": "평년*(21.1~21.7℃)보다 비슷하거나 높을 확률이 각각 40%이며, 이동성 고기압\n의 영향을 주로 받겠으나 남쪽을 지나는 저기압의 영향을 받을 때가 있겠음\n* 평년범위는 과거 30년(`91-`20년)간 연도별 30개의 평균값 중 대략적으로 33.33%~66.67%에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": " 6월 강수량 전망",
+          "content": "평년(101.6~174.0㎜)과 비슷할 확률이 50%임",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2019 to 2023, measured in megawatts (MW) on the y-axis, ranging from 65,000 MW to 100,000 MW. The x-axis represents the months from January (1) to December (12).\n\n### Key Observations:\n\n- **2023 Forecast (Red Line):**\n  - Peaks at 92,613 MW in January.\n  - Declines to a low of 72,292 MW in May.\n  - Rises again to 90,564 MW by December.\n\n- **2022 Data (Blue Line):**\n  - Starts at 89,397 MW in January.\n  - Reaches a low of 75,654 MW in May.\n  - Peaks at 94,509 MW in December.\n\n- **2021 Data (Pink Line):**\n  - Begins at 87,351 MW in January.\n  - Dips to 70,964 MW in May.\n  - Peaks at 91,141 MW in August.\n\n- **2020 Data (Green Line):**\n  - Starts at 85,392 MW in January.\n  - Lowest point is 66,699 MW in May.\n  - Peaks at 90,314 MW in August.\n\n- **2019 Data (Black Line):**\n  - Begins at 82,352 MW in January.\n  - Lowest point is 68,454 MW in May.\n  - Peaks at 84,164 MW in August.\n\n### Trends:\n\n- **Seasonal Variation:**\n  - All years show a similar pattern of high demand in winter and summer, with a dip in spring and fall.\n  \n- **Yearly Comparison:**\n  - 2023 shows the highest peak demand in January compared to previous years.\n  - 2022 has the highest peak in December.\n  - 2020 and 2019 have lower overall demand compared to 2021, 2022, and 2023.\n\nThis chart highlights the seasonal fluctuations in electricity demand and the increasing trend in peak demand over the years.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년6월전력수요예측전망_v2/page2_id36_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents electricity demand forecasts for June from 2019 to 2023, focusing on two key metrics: maximum load (최대부하) and average load (평균부하), both measured in megawatts (MW). It also includes the year-on-year growth rates in percentages.\n\n### Maximum Load (최대부하)\n- **2019.6월**: 75,206 MW, with a decrease of 1.8% from the previous year.\n- **2020.6월**: 75,247 MW, a slight increase of 0.1%.\n- **2021.6월**: 75,854 MW, an increase of 0.8%.\n- **2022.6월**: 84,742 MW, a significant increase of 11.7%.\n- **2023.6월**: 80,700 MW, a decrease of 4.8%.\n\n### Average Load (평균부하)\n- **2019.6월**: 59,672 MW, with a decrease of 2.4% from the previous year.\n- **2020.6월**: 58,680 MW, a decrease of 1.7%.\n- **2021.6월**: 61,202 MW, an increase of 4.3%.\n- **2022.6월**: 63,726 MW, an increase of 4.1%.\n- **2023.6월**: 62,100 MW, a decrease of 2.6%.\n\n### Trends\n- The maximum load saw a significant increase in 2022 but decreased in 2023.\n- The average load increased in 2021 and 2022 but decreased in 2023.\n- Both metrics show a decline in 2023 compared to 2022, indicating a reduction in electricity demand for that year.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년6월전력수요예측전망_v2/page2_id39_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "2023년 6월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast in megawatts (MW) for each week from May 29 to July 2, 2023. Here's a detailed summary:\n\n- **Week 1 (5/29 - 6/4):** The maximum demand is forecasted at 74,900 MW.\n- **Week 2 (6/5 - 6/11):** The demand increases to 78,600 MW.\n- **Week 3 (6/12 - 6/18):** The demand further rises to 79,700 MW.\n- **Week 4 (6/19 - 6/25):** The demand reaches 80,700 MW.\n- **Week 5 (6/26 - 7/2):** The demand remains steady at 80,700 MW.\n\n**Trend Analysis:**\n- There is a consistent increase in demand from Week 1 to Week 4.\n- The demand stabilizes in Weeks 4 and 5 at 80,700 MW.\n\nThis trend suggests a growing electricity demand as the weeks progress, with a plateau in the last two weeks.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년6월전력수요예측전망_v2/page3_id45_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2023년 7월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the projected maximum electricity demand in megawatts (MW) for each week of July 2023. Here's a detailed summary:\n\n- **1st Week (7/3 - 7/9):** The maximum demand is projected to be 85,500 MW.\n- **2nd Week (7/10 - 7/16):** The demand increases to 88,500 MW.\n- **3rd Week (7/17 - 7/23):** The demand further rises to 92,600 MW.\n- **4th Week (7/24 - 7/30):** The highest demand is expected, reaching 94,700 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand throughout July.\n- The demand increases by 3,000 MW from the 1st to the 2nd week, 4,100 MW from the 2nd to the 3rd week, and 2,100 MW from the 3rd to the 4th week.\n- The overall increase from the 1st to the 4th week is 9,200 MW.\n\nThis trend suggests a growing need for electricity as the month progresses, possibly due to seasonal factors such as increased cooling requirements in the summer.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년6월전력수요예측전망_v2/page3_id48_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          },
+          "methodology": "○ 2023년 7월 전망결과 : 68,400㎿ (아래 4개 모형의 평균)\n- SELF(Short-term Electricity Load Forecasting) 모형 : 67,700㎿\n- ARIMA 모형(Census X-13) : 69,500㎿\n- Holt-Winters 지수평활 모형 : 66,900㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 69,400㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for June, focusing on temperature and precipitation trends influenced by atmospheric pressure systems.\n\n### Week 1 (5/29 - 6/4)\n- **Temperature**: Expected to be similar to or higher than the average of 19.2–20.2°C, with a 40% probability.\n- **Precipitation**: Likely to be similar to or more than the average of 3.7–15.0mm, with a 40% probability.\n- **Influence**: Mainly affected by mobile high-pressure systems, with occasional influence from pressure troughs.\n\n### Week 2 (6/5 - 6/11)\n- **Temperature**: Expected to be similar to the average of 20.2–21.2°C, with a 50% probability.\n- **Precipitation**: Likely to be similar to or less than the average of 6.4–23.9mm, with a 40% probability.\n- **Influence**: Predominantly affected by upper cold air and mobile high-pressure systems.\n\n### Week 3 (6/12 - 6/18)\n- **Temperature**: Expected to be similar to or higher than the average of 21.0–21.8°C, with a 40% probability.\n- **Precipitation**: Likely to be similar to the average of 8.4–34.7mm, with a 50% probability.\n- **Influence**: Mainly affected by high-pressure systems, with occasional influence from upper cold air.\n\n### Week 4 (6/19 - 6/25)\n- **Temperature**: Expected to be higher than the average of 21.5–22.5°C, with a 50% probability.\n- **Precipitation**: Likely to be similar to the average of 18.9–46.0mm, with a 50% probability.\n- **Influence**: Mainly affected by high-pressure systems, with influence from pressure troughs passing south.\n\nOverall, the forecast indicates a general trend of temperatures being similar to or higher than average, with varying precipitation levels influenced by different atmospheric pressure systems.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년6월전력수요예측전망_v2/page4_id56_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks, with probabilities for different conditions.\n\n### Temperature (평균기온)\n- **Week 1**: Average range is 19.2°C to 20.2°C. Probability: Low 20%, Normal 40%, High 40%.\n- **Week 2**: Average range is 20.2°C to 21.2°C. Probability: Low 30%, Normal 50%, High 20%.\n- **Week 3**: Average range is 21.0°C to 21.8°C. Probability: Low 20%, Normal 40%, High 40%.\n- **Week 4**: Average range is 21.5°C to 22.5°C. Probability: Low 10%, Normal 40%, High 50%.\n\n### Precipitation (강수량)\n- **Week 1**: Average range is 3.7mm to 15.0mm. Probability: Low 20%, Normal 40%, High 40%.\n- **Week 2**: Average range is 6.4mm to 23.9mm. Probability: Low 40%, Normal 40%, High 20%.\n- **Week 3**: Average range is 8.4mm to 34.7mm. Probability: Low 30%, Normal 50%, High 20%.\n- **Week 4**: Average range is 18.9mm to 46.0mm. Probability: Low 30%, Normal 50%, High 20%.\n\n### Trends\n- **Temperature**: The average temperature range increases each week. The probability of higher temperatures increases in the fourth week.\n- **Precipitation**: The average precipitation range also increases over the weeks. The probability of normal precipitation is consistently high, especially in the third and fourth weeks.\n\nThis forecast suggests a gradual warming trend with increasing precipitation as the weeks progress.",
+              "image_path": "/home/user/langchain-study/2023_visuals_output/2023년6월전력수요예측전망_v2/page4_id59_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기온범위(°C)",
+                  "강수량(mm)"
+                ],
+                "rows": [],
+                "data_type": "weather",
+                "fields": [
+                  "week",
+                  "temp_range",
+                  "precip_range"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 6,
+    "charts_count": 4,
+    "tables_count": 5,
+    "processing_date": "2025-11-17 21:32:56"
+  }
+}

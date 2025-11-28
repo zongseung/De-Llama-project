@@ -1,0 +1,194 @@
+{
+  "document_info": {
+    "title": "2022년5월전력수요예측전망",
+    "date": "",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)",
+    "filepath": "/home/user/langchain-study/2022_수요보고서/2022년5월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": " `22.5월 기온 전망",
+          "content": "평년*(17.0~17.6℃)과 비슷하거나 높을 확률이 각각 40%이며, 이동성고기압의\n영향을 주로 받겠음\n* 평년범위는 과거 30년(`91-`20년)간 연도별 30개의 평균값 중 대략적으로 33.33%~66.67%에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": " `22.5월 강수량 전망",
+          "content": "평년(79.3~125.5㎜)과 비슷할 확률이 50%이며, 남쪽을 지나는 저기압의 영향\n으로 많은 비가 내릴 때가 있겠음.",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The chart displays electricity demand forecasts from 2018 to 2022, measured in megawatts (MW) on the y-axis, ranging from 60,000 MW to 95,000 MW. The x-axis represents the months from January (1) to December (12).\n\n### Key Observations:\n\n- **2022 Forecast (Red Line):**\n  - Starts at 89,391 MW in January.\n  - Peaks at 90,564 MW in February.\n  - Declines to a low of 71,879 MW in May.\n  - Rises again to 86,083 MW by December.\n\n- **Comparative Trends:**\n  - **2018 (Black Line):** Peaks at 92,478 MW in July, the highest among all years.\n  - **2019 (Green Line):** Shows a peak of 91,141 MW in July.\n  - **2020 (Pink Line):** Peaks at 89,091 MW in July.\n  - **2021 (Blue Line):** Peaks at 91,548 MW in July, with a notable dip to 71,070 MW in October.\n\n### General Trends:\n- All years show a similar pattern of high demand in the winter months (January-February) and summer months (July-August), with lower demand in spring (April-May) and fall (October-November).\n- The 2022 forecast shows a slightly lower peak compared to previous years, indicating a potential decrease in maximum demand.\n\nThis analysis provides insights into seasonal electricity demand fluctuations and highlights the expected demand for 2022 in comparison to previous years.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년5월전력수요예측전망/page2_id37_chart.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents electricity demand forecasts for May from 2018 to 2022, focusing on two key metrics: maximum demand (최대부하) and average demand (평균부하), both measured in megawatts (MW). The table also includes the year-over-year growth rates in percentages.\n\n### Maximum Demand (MW)\n- **2018.5월**: 73,173 MW, with a growth rate of +4.7%.\n- **2019.5월**: 70,964 MW, a decrease of -3.0%.\n- **2020.5월**: 65,700 MW, a further decrease of -7.4%.\n- **2021.5월**: 69,140 MW, an increase of +5.3%.\n- **2022.5월**: 71,600 MW, an increase of +3.6%.\n\n### Average Demand (MW)\n- **2018.5월**: 58,898 MW, with a growth rate of +3.9%.\n- **2019.5월**: 58,126 MW, a decrease of -1.3%.\n- **2020.5월**: 53,720 MW, a further decrease of -7.6%.\n- **2021.5월**: 57,188 MW, an increase of +6.5%.\n- **2022.5월**: 59,500 MW, an increase of +4.0%.\n\n### Trends\n- **Maximum Demand**: After a peak in 2018, there was a decline in 2019 and 2020, followed by a recovery in 2021 and 2022.\n- **Average Demand**: Similar to maximum demand, there was a decline in 2019 and 2020, with recovery in 2021 and 2022.\n\nOverall, both maximum and average electricity demands show a recovery trend in 2021 and 2022 after declines in the previous years.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년5월전력수요예측전망/page2_id40_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "71,600㎿",
+          "page": 3,
+          "related_data": null
+        },
+        {
+          "subtitle": "2022년 5월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast in megawatts (MW) for May 2022, broken down by week. Here's a detailed summary:\n\n- **1st Week (5/2 - 5/8):** The maximum demand is forecasted to be 70,200 MW.\n- **2nd Week (5/9 - 5/15):** The demand remains the same at 70,200 MW.\n- **3rd Week (5/16 - 5/22):** There is a slight increase in demand to 70,600 MW.\n- **4th Week (5/23 - 5/29):** The demand further increases to 71,600 MW.\n\n**Trend Analysis:**\n- The demand is stable in the first two weeks.\n- There is a gradual increase in demand from the third week to the fourth week, with a total increase of 1,400 MW from the first to the last week of May.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년5월전력수요예측전망/page3_id46_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "2022년 6월 주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the projected maximum electricity demand (in megawatts, MW) for each week from May 30 to July 3, 2022. Here's a detailed summary:\n\n- **1st Week (5/30 - 6/5):** The maximum demand is projected to be 72,500 MW.\n- **2nd Week (6/6 - 6/12):** The demand increases to 74,700 MW.\n- **3rd Week (6/13 - 6/19):** The demand further rises to 76,700 MW.\n- **4th Week (6/20 - 6/26):** The demand continues to increase, reaching 78,300 MW.\n- **5th Week (6/27 - 7/3):** The highest demand in this period is projected at 79,300 MW.\n\n**Trend Analysis:**\n- There is a consistent upward trend in electricity demand over the five-week period.\n- The demand increases by 2,200 MW from the 1st to the 2nd week, 2,000 MW from the 2nd to the 3rd week, 1,600 MW from the 3rd to the 4th week, and 1,000 MW from the 4th to the 5th week.\n- The total increase in demand from the 1st to the 5th week is 6,800 MW.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년5월전력수요예측전망/page3_id49_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "59,500㎿ (100㎿ 단위로 반올림하여 작성하였음)",
+          "page": 3,
+          "related_data": null,
+          "methodology": "○ 아래 4개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 예측 : 59,600㎿\n- ARIMA이용(Census X-13) 예측 : 59,600㎿\n- Holt-Winters 지수평활 예측 : 59,400㎿\n- ETS 지수평활 예측 : 59,200㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for May 2022, focusing on temperature and precipitation probabilities influenced by atmospheric pressure systems.\n\n### Week 1 (5/2~5/8)\n- **Temperature**: The weekly average temperature is expected to be similar to the normal range of 15.6~16.8°C with a 50% probability.\n- **Precipitation**: The weekly precipitation is expected to be similar to the normal range of 6.9~28.7mm with a 50% probability.\n- **Influence**: Mainly influenced by a mobile high-pressure system, with potential effects from a trough passing north.\n\n### Week 2 (5/9~5/15)\n- **Temperature**: The weekly average temperature is expected to be similar to the normal range of 15.9~16.9°C with a 50% probability.\n- **Precipitation**: The weekly precipitation is expected to be similar or less than the normal range of 14.4~27.1mm with a 40% probability each.\n- **Influence**: Mainly influenced by a mobile high-pressure system.\n\n### Week 3 (5/16~5/22)\n- **Temperature**: The weekly average temperature is expected to be similar or higher than the normal range of 17.3~18.1°C with a 40% probability each.\n- **Precipitation**: The weekly precipitation is expected to be similar to the normal range of 7.7~29.8mm with a 50% probability.\n- **Influence**: Mainly influenced by a mobile high-pressure system.\n\n### Week 4 (5/23~5/29)\n- **Temperature**: The weekly average temperature is expected to be similar or higher than the normal range of 18.1~19.5°C with a 40% probability each.\n- **Precipitation**: The weekly precipitation is expected to be similar or more than the normal range of 5.0~24.6mm with a 40% probability each.\n- **Influence**: Mainly influenced by a mobile high-pressure system, with potential effects from a trough passing south.\n\nOverall, the forecast suggests a consistent influence of mobile high-pressure systems throughout May, with varying probabilities of normal temperature and precipitation ranges.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년5월전력수요예측전망/page4_id57_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks in May 2022. Here's a detailed summary:\n\n### Temperature (평균기온)\n- **1st Week**: \n  - Range: 15.6°C to 16.8°C\n  - Probability: Low 20%, Normal 50%, High 30%\n- **2nd Week**: \n  - Range: 15.9°C to 16.9°C\n  - Probability: Low 20%, Normal 50%, High 30%\n- **3rd Week**: \n  - Range: 17.3°C to 18.1°C\n  - Probability: Low 20%, Normal 40%, High 40%\n- **4th Week**: \n  - Range: 18.1°C to 19.5°C\n  - Probability: Low 20%, Normal 40%, High 40%\n\n### Precipitation (강수량)\n- **1st Week**: \n  - Range: 6.9mm to 28.7mm\n  - Probability: Low 20%, Normal 50%, High 30%\n- **2nd Week**: \n  - Range: 14.4mm to 27.1mm\n  - Probability: Low 40%, Normal 40%, High 20%\n- **3rd Week**: \n  - Range: 7.7mm to 29.8mm\n  - Probability: Low 20%, Normal 50%, High 30%\n- **4th Week**: \n  - Range: 5.0mm to 24.6mm\n  - Probability: Low 20%, Normal 40%, High 40%\n\n### Trends\n- **Temperature**: There is a gradual increase in the temperature range from the 1st to the 4th week.\n- **Precipitation**: The range of precipitation varies each week, with the highest probability of normal precipitation in the 1st and 3rd weeks. The 4th week shows a higher probability of high precipitation compared to the previous weeks.",
+              "image_path": "/home/user/langchain-study/2022_visuals_output/2022년5월전력수요예측전망/page4_id61_table.png",
+              "structured_data": {
+                "headers": [
+                  "주차",
+                  "기온범위(°C)",
+                  "강수량(mm)"
+                ],
+                "rows": [],
+                "data_type": "weather",
+                "fields": [
+                  "week",
+                  "temp_range",
+                  "precip_range"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 6,
+    "charts_count": 4,
+    "tables_count": 5,
+    "processing_date": "2025-11-18 00:59:07"
+  }
+}

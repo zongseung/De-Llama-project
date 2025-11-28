@@ -1,0 +1,128 @@
+{
+  "document_info": {
+    "title": "2021년2월전력수요예측전망 v1",
+    "date": "2021. 1.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "subsections": [
+        {
+          "subtitle": " 2월 기온 전망",
+          "content": "평년(0.4~-1.8℃)과 비슷하겠으며, 대륙고기압과 이동성 고기압의 영향을 주기적\n으로 받아 기온 변화가 크겠으며, 북쪽에서 남하하는 찬 공기의 영향으로\n기온이 다소 큰 폭으로 떨어질 때가 있겠음."
+        },
+        {
+          "subtitle": " 2월 강수량 전망"
+        },
+        {
+          "subtitle": "○ 강수량은 평년(19.2~41.4㎜)과 비슷하겠으며, 대체로 맑고 건조한 날이 많겠으나,\n강원영동을 중심으로 다소 많은 눈이 내릴 때가 있겠음.\n※ 상세 기온 및 강수량 전망내용은 붙임 참조"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "chart": {
+            "image_path": "/home/user/langchain-study/2021_visuals_output/2021년2월전력수요예측전망_v1/page2_id35_chart.png"
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "table": {
+            "type": "yearly",
+            "data": [
+              {
+                "year": 2017,
+                "max_load": 8142,
+                "max_rate": "+1.5%",
+                "avg_load": 6703,
+                "avg_rate": "+6.0%"
+              },
+              {
+                "year": 2018,
+                "max_load": 8890,
+                "max_rate": "+9.2%",
+                "avg_load": 6872,
+                "avg_rate": "+2.5%"
+              },
+              {
+                "year": 2019,
+                "max_load": 8296,
+                "max_rate": "-6.7%",
+                "avg_load": 6540,
+                "avg_rate": "-4.8%"
+              },
+              {
+                "year": 2020,
+                "max_load": 8171,
+                "max_rate": "-1.5%",
+                "avg_load": 6505,
+                "avg_rate": "-0.5%"
+              },
+              {
+                "year": 2021,
+                "max_load": 8680,
+                "max_rate": "+6.2%",
+                "avg_load": 6650,
+                "avg_rate": "+2.2%"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "8,680만kW"
+        },
+        {
+          "subtitle": "2021년 2월 주별 최대전력"
+        },
+        {
+          "subtitle": "2020년 3월 주별 최대전력"
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "6,650만kW (10만kW 단위로 반올림하여 작성하였음)",
+          "methodology": "○ 아래 5개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 예측 : 6,610만㎾\n- ARIMA이용(Census X-13) 예측 : 6,640만㎾\n- Holt-Winters 지수평활 예측 : 6,700만㎾\n- ETS 지수평활 예측 : 6,680만㎾\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 6,600만kW"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "subsections": [
+        {
+          "subtitle": "기상 패턴 전망",
+          "content": "2월은 대륙고기압과 이동성 고기압의 영향을 주기적으로 받아 기온 변화가 크겠으며,\n북쪽에서 남하하는 찬 공기의 영향으로 기온이 다소 큰 폭으로 떨어질 때가 있겠음.\n대체로 맑고 건조한 날이 많겠으나, 강원영동을 중심으로 다소 많은 눈이 내릴 때가 있겠음.\n기온은 평년(0.4~1.8℃)과 비슷하겠고, 강수량은 평년(19.2~41.4㎜)과 비슷하겠음."
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {
+      "max_load": "8,680만kW",
+      "avg_load": "6,650만kW"
+    }
+  },
+  "metadata": {
+    "total_pages": 4,
+    "processing_date": "2025-11-06 01:27:05"
+  }
+}

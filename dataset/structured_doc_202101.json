@@ -1,0 +1,128 @@
+{
+  "document_info": {
+    "title": "2021년1월전력수요예측전망 v2",
+    "date": "2020. 12.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "subsections": [
+        {
+          "subtitle": " 1월 기온 전망",
+          "content": "평년(-1.6~-0.4℃)과 비슷하거나 낮겠으며, 중반까지는 북쪽에서 남하하는 찬 공기의\n영향을 받아 평년보다 낮은 기온 분포를 보이겠으나, 이후 찬 공기와 상대적으로\n따뜻한 공기의 영향을 주기적으로 받아 기온 변화가 크겠음."
+        },
+        {
+          "subtitle": " 1월 강수량 전망"
+        },
+        {
+          "subtitle": "○ 강수량은 평년(19.0~28.6㎜)과 비슷하거나 적겠으며, 대체로 맑고 건조한 날이 많겠으나,\n서해안과 제주도를 중심으로 많은 눈이 내릴 때가 있겠음.\n※ 상세 기온 및 강수량 전망내용은 붙임 참조"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "chart": {
+            "image_path": "/home/user/langchain-study/2021_visuals_output/2021년1월전력수요예측전망_v2/page2_id35_chart.png"
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "table": {
+            "type": "yearly",
+            "data": [
+              {
+                "year": 2017,
+                "max_load": 8374,
+                "max_rate": "+0.3%",
+                "avg_load": 6602,
+                "avg_rate": "-1.1%"
+              },
+              {
+                "year": 2018,
+                "max_load": 8904,
+                "max_rate": "+6.3%",
+                "avg_load": 7151,
+                "avg_rate": "+8.3%"
+              },
+              {
+                "year": 2019,
+                "max_load": 8547,
+                "max_rate": "-4.0%",
+                "avg_load": 7036,
+                "avg_rate": "-1.6%"
+              },
+              {
+                "year": 2020,
+                "max_load": 8268,
+                "max_rate": "-3.3%",
+                "avg_load": 6547,
+                "avg_rate": "-7.0%"
+              },
+              {
+                "year": 2021,
+                "max_load": 8900,
+                "max_rate": "+7.6%",
+                "avg_load": 6800,
+                "avg_rate": "+3.9%"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "8,900만kW"
+        },
+        {
+          "subtitle": "2021년 1월 주별 최대전력"
+        },
+        {
+          "subtitle": "2020년 2월 주별 최대전력"
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "6,800만kW (10만kW 단위로 반올림하여 작성하였음)",
+          "methodology": "○ 아래 5개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 예측 : 7,030만㎾\n- ARIMA이용(Census X-13) 예측 : 6,640만㎾\n- Holt-Winters 지수평활 예측 : 6,780만㎾\n- ETS 지수평활 예측 : 6,770만㎾\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 6,770만kW"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "subsections": [
+        {
+          "subtitle": "기상 패턴 전망",
+          "content": "1월은 중반까지는 북쪽에서 남하하는 찬 공기의 영향을 받아 평년보다 낮은 기온 분포를\n보이겠으나, 기온 변화가 크겠음. 대체로 맑고 건조한 날이 많겠으나, 서해안과 제주도를 중\n심으로 많은 눈이 내릴 때가 있겠음.\n기온은 평년(-1.6~-0.4℃)과 비슷하거나 낮겟고, 강수량은 평년(19.0~28.6㎜)과 비슷하거나 적겠음."
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {
+      "max_load": "8,900만kW",
+      "avg_load": "6,800만kW"
+    }
+  },
+  "metadata": {
+    "total_pages": 4,
+    "processing_date": "2025-11-06 01:27:05"
+  }
+}

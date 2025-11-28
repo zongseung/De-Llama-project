@@ -1,0 +1,173 @@
+{
+  "document_info": {
+    "title": "2024년2월전력수요예측전망",
+    "date": "2024. 1.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 차장 손흥구 ( ☏ 8802)\n대리 송재인( ☏ 8808)\n주임 이수민( ☏ 8805)",
+    "filepath": "/home/user/langchain-study/2024_수요보고서/2024년2월전력수요예측전망.pdf"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "2󰏚 월 기온 전망",
+          "content": "평년*(0.6~1.8 )℃ 보다 비슷하거나 높을 확률이 각각 40%이며 , 대륙 고기압과 이\n동성 고기압의 영향을 주기적으로 받겠으며 기압골의 영향을 받고 지형적인\n영향으로 눈이 내리는 곳이 있겠음\n* 평년범위는 과거 30 년 (`91-`20 년 ) 간 연도별 30 개의 평균값 중 대략적으로 33.33%~66.67% 에 해당하는 값",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "2󰏚 월 강수량 전망",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        },
+        {
+          "subtitle": "○ 평년(27.5~44.9 )㎜ 과 비슷할 확률이 50%임\n※ 상세 기온 및 강수량 전망내용은 붙임 참조",
+          "content": "",
+          "page": 2,
+          "related_data": null
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "page": 2,
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "content": "1 -",
+          "page": 2,
+          "related_data": {
+            "type": "chart",
+            "data": {
+              "description": "The graph illustrates electricity demand forecasts for different years, with the x-axis representing months (1 to 12) and the y-axis showing demand in units (ranging from 65,000 to 100,000).\n\n### Key Observations:\n\n- **2024 Forecast (Red Line):**\n  - Starts at 92,000 in January.\n  - Decreases to 87,200 in February.\n  - Further drops to 80,400 in March.\n  - Shows a gradual increase, peaking at around 93,263 in August.\n  - Ends at 91,556 in December.\n\n- **2023 Data (Blue Line):**\n  - Begins at 92,613 in January.\n  - Dips to 84,250 in March.\n  - Peaks at 93,615 in August.\n  - Ends at 94,509 in December.\n\n- **2022 Data (Pink Line):**\n  - Starts at 90,441 in January.\n  - Lowest point is 71,891 in April.\n  - Peaks at 92,990 in August.\n  - Ends at 91,141 in December.\n\n- **2021 Data (Green Line):**\n  - Begins at 82,392 in January.\n  - Lowest point is 66,539 in April.\n  - Peaks at 86,553 in August.\n  - Ends at 85,132 in December.\n\n- **2020 Data (Black Line):**\n  - Starts at 82,352 in January.\n  - Lowest point is 68,454 in April.\n  - Peaks at 82,091 in August.\n  - Ends at 82,086 in December.\n\n### Trends:\n\n- **Seasonal Variation:**\n  - All years show a similar pattern of lower demand in spring (March-April) and higher demand in summer (July-August).\n\n- **Yearly Comparison:**\n  - 2024 is projected to have higher demand compared to previous years, especially in the early months and towards the end of the year.\n  - 2023 shows a consistent increase in demand, peaking higher than previous years.\n\nThis graph provides a clear view of the expected increase in electricity demand for 2024, with significant peaks during the summer months.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년2월전력수요예측전망/page2_id36_figure.png",
+              "key_points": [],
+              "data_points": [],
+              "value_unit": null
+            }
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망",
+          "content": "",
+          "page": 2,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides data on electricity demand forecasts for February from 2020 to 2024, focusing on two main metrics: maximum demand (최대부하) and average demand (평균부하), both measured in megawatts (MW). It also includes the year-on-year growth rates in percentages.\n\n### Maximum Demand (최대부하)\n- **2020.2월**: 81,493 MW with a decrease of 1.7% from the previous year.\n- **2021.2월**: 84,749 MW, showing an increase of 4.0%.\n- **2022.2월**: 87,351 MW, with a growth of 3.1%.\n- **2023.2월**: 84,290 MW, experiencing a decrease of 3.5%.\n- **2024.2월**: Forecasted to be 87,200 MW, with an expected increase of 3.5%.\n\n### Average Demand (평균부하)\n- **2020.2월**: 65,053 MW, a decrease of 0.5%.\n- **2021.2월**: 64,837 MW, a slight decrease of 0.3%.\n- **2022.2월**: 69,609 MW, showing a significant increase of 7.4%.\n- **2023.2월**: 68,952 MW, a decrease of 0.9%.\n- **2024.2월**: Forecasted to be 68,600 MW, with a decrease of 0.5%.\n\n### Trends\n- The maximum demand shows fluctuations with increases in 2021 and 2022, a decrease in 2023, and a forecasted increase in 2024.\n- The average demand shows a similar pattern, with a notable increase in 2022, followed by decreases in 2023 and a forecasted decrease in 2024.\n\nOverall, the data indicates variability in electricity demand, with both maximum and average demands expected to rise in 2024 compared to 2023.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년2월전력수요예측전망/page2_id39_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "page": 3,
+      "subsections": [
+        {
+          "subtitle": "주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the forecasted maximum electricity demand in megawatts (MW) for each week from January 29 to March 3, 2024. Here's a detailed summary:\n\n- **1st Week (1/29 - 2/4):** The maximum demand is projected to be 87,200 MW.\n- **2nd Week (2/5 - 2/11):** The demand decreases to 85,900 MW.\n- **3rd Week (2/12 - 2/18):** The demand further decreases to 84,900 MW.\n- **4th Week (2/19 - 2/25):** The demand continues to decrease to 82,900 MW.\n- **5th Week (2/26 - 3/3):** The demand reaches its lowest at 80,100 MW.\n\n**Trend Analysis:**\n- There is a consistent downward trend in the maximum electricity demand over the five-week period.\n- The demand decreases by 7,100 MW from the first to the fifth week.\n\nThis trend may indicate a seasonal reduction in electricity usage, possibly due to milder weather conditions or other factors affecting demand.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년2월전력수요예측전망/page3_id45_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 최대전력",
+          "content": "",
+          "page": 3,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table presents the maximum electricity demand forecast for February 2024, broken down by week. The values are given in megawatts (MW).\n\n- **1st Week (3/4 - 3/10):** The maximum demand is forecasted at 80,400 MW.\n- **2nd Week (3/11 - 3/17):** The demand decreases to 78,800 MW.\n- **3rd Week (3/18 - 3/24):** The demand further decreases to 76,400 MW.\n- **4th Week (3/25 - 3/31):** The demand slightly decreases to 76,000 MW.\n\n**Trend Analysis:**\n- There is a consistent decrease in maximum electricity demand from the 1st week to the 4th week.\n- The largest drop occurs between the 1st and 2nd weeks, with a decrease of 1,600 MW.\n- The decrease from the 2nd to the 3rd week is 2,400 MW, and from the 3rd to the 4th week is 400 MW.\n\nThis trend suggests a gradual reduction in electricity demand as the month progresses.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년2월전력수요예측전망/page3_id48_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "page": 4,
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a weekly forecast for February, focusing on the influence of high and low-pressure systems on temperature and precipitation.\n\n### Week 1 (1/29 - 2/4)\n- **Pressure Influence**: Mainly influenced by mobile high pressure, with potential low-pressure influence.\n- **Temperature**: 60% probability of being higher than the average range (-1.8 to 0.2°C).\n- **Precipitation**: 40% probability of being similar to or more than the average (1.1 to 3.1mm).\n\n### Week 2 (2/5 - 2/11)\n- **Pressure Influence**: Influenced by both mobile and stationary high pressure, with potential low-pressure influence.\n- **Temperature**: 40% probability of being similar to or higher than the average range (-0.8 to 1.0°C).\n- **Precipitation**: 40% probability of being similar to or more than the average (1.0 to 3.8mm).\n\n### Week 3 (2/12 - 2/18)\n- **Pressure Influence**: Influenced by both mobile and stationary high pressure, with potential low-pressure influence.\n- **Temperature**: 40% probability of being similar to or higher than the average range (0.6 to 2.2°C).\n- **Precipitation**: 40% probability of being similar to or more than the average (3.1 to 9.3mm).\n\n### Week 4 (2/19 - 2/25)\n- **Pressure Influence**: Influenced by both mobile and stationary high pressure, with significant temperature fluctuations.\n- **Temperature**: 40% probability of being similar to or higher than the average range (1.2 to 3.4°C).\n- **Precipitation**: 50% probability of being similar to the average (1.8 to 16.2mm).\n\nOverall, the forecast suggests a general trend of higher temperatures and varying precipitation levels, with significant influence from high-pressure systems throughout February.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년2월전력수요예측전망/page4_id56_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        },
+        {
+          "subtitle": "주별 기상 상세",
+          "content": "",
+          "page": 4,
+          "related_data": {
+            "type": "table",
+            "data": {
+              "description": "The table provides a forecast for temperature and precipitation over four weeks in February 2024. Here's a detailed summary:\n\n### Temperature Forecast\n- **1st Week:**\n  - **Range:** -1.8°C to 0.2°C\n  - **Probability:** Low (10%), Normal (30%), High (60%)\n\n- **2nd Week:**\n  - **Range:** -0.8°C to 1.0°C\n  - **Probability:** Low (20%), Normal (40%), High (40%)\n\n- **3rd Week:**\n  - **Range:** 0.6°C to 2.2°C\n  - **Probability:** Low (20%), Normal (40%), High (40%)\n\n- **4th Week:**\n  - **Range:** 1.2°C to 3.4°C\n  - **Probability:** Low (20%), Normal (50%), High (30%)\n\n### Precipitation Forecast\n- **1st Week:**\n  - **Range:** 1.1mm to 3.1mm\n  - **Probability:** Low (20%), Normal (40%), High (40%)\n\n- **2nd Week:**\n  - **Range:** 1.0mm to 3.8mm\n  - **Probability:** Low (30%), Normal (50%), High (20%)\n\n- **3rd Week:**\n  - **Range:** 3.1mm to 9.3mm\n  - **Probability:** Low (30%), Normal (50%), High (20%)\n\n- **4th Week:**\n  - **Range:** 1.8mm to 16.2mm\n  - **Probability:** Low (20%), Normal (40%), High (40%)\n\n### Trends\n- **Temperature:** There is a gradual increase in the temperature range from the 1st to the 4th week.\n- **Precipitation:** The 3rd week shows the highest potential range of precipitation, while the 4th week has the widest range.\n\nThis forecast suggests a warming trend throughout February, with varying precipitation levels, particularly in the 3rd and 4th weeks.",
+              "image_path": "/home/user/langchain-study/2024_visuals_output/2024년2월전력수요예측전망/page4_id59_table.png",
+              "structured_data": {
+                "headers": [],
+                "rows": [],
+                "data_type": null,
+                "fields": []
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "key_predictions": {},
+    "trend_analysis": {},
+    "weather_impact": {}
+  },
+  "metadata": {
+    "total_pages": 8,
+    "charts_count": 6,
+    "tables_count": 5,
+    "processing_date": "2025-11-06 03:33:16"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "document_info": {
+    "title": "2021년4월전력수요예측전망 최종",
+    "date": "2021. 3.",
+    "author": "중앙전력관제센터 수 요 예 측 팀",
+    "contact": "작성자 : 수요예측팀 대리 손흥구(☏8806)"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "title": "기상전망",
+      "subsections": [
+        {
+          "subtitle": " 4월 기온 전망",
+          "content": "평년(11.8 ~ 12.6℃)과 비슷하거나 높겠으며, 이동성 고기압의 영향을 주로 받아\n평년보다 다소 높은 기온 경향을 보이겠으나, 상층 찬 공기의 영향으로 쌀쌀한 날\n씨를 보일 때가 있겠고, 낮과 밤의 기온차가 큰 가운데 맑고 건조한 날이 많겠음"
+        },
+        {
+          "subtitle": " 4월 강수량 전망"
+        },
+        {
+          "subtitle": "○ 강수량은 평년(56.1 ~ 89.8㎜)과 비슷하거나 적겠음.\n※ 상세 기온 및 강수량 전망내용은 붙임 참조"
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "title": "과거 전력수요 추이",
+      "subsections": [
+        {
+          "subtitle": "과거 전력수요 실적그래프",
+          "chart": {
+            "image_path": "/home/user/langchain-study/2021_visuals_output/2021년4월전력수요예측전망_최종/page2_id35_chart.png"
+          }
+        },
+        {
+          "subtitle": "최근 5개년 실적 및 전망"
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "title": "전력수요 전망 결과",
+      "subsections": [
+        {
+          "subtitle": "최대부하 예측",
+          "content": "70,900㎿"
+        },
+        {
+          "subtitle": "2020년 4월 주별 최대전력"
+        },
+        {
+          "subtitle": "2020년 5월 주별 최대전력"
+        },
+        {
+          "subtitle": "평균부하 예측",
+          "content": "58,500㎿ (100㎿ 단위로 반올림하여 작성하였음)",
+          "methodology": "○ 아래 5개 모형의 평균\n- SELF(Short-term Electricity Load Forecasting) 모형 예측 : 59,000㎿\n- ARIMA이용(Census X-13) 예측 : 57,600㎿\n- Holt-Winters 지수평활 예측 : 58,500㎿\n- ETS 지수평활 예측 : 58,400㎿\n- 월별 수요 변동특성을 고려한 회귀모형 예측 : 58,900㎿"
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "title": "기상전망 상세",
+      "subsections": [
+        {
+          "subtitle": "주별 기상 상세"
+        },
+        {
+          "subtitle": "주별 기상 상세"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_pages": 4,
+    "processing_date": "2025-11-06 01:27:05"
+  }
+}
